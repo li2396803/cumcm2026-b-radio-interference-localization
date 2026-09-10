@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+**/.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# LaTeX / pandoc 中间产物
+*.aux
+*.log
+*.out
+*.toc
+*.tex
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.xdv
+
+# 临时文件
+tmp/
+scratch/
+*.tmp
+
+# 官方模拟器运行日志（本地私有）
+local_log_*.jsonl

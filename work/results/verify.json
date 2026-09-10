@@ -1,0 +1,149 @@
+{
+  "simulator_timing_example": {
+    "observed": [
+      105.0,
+      111.0,
+      194.0,
+      199.0
+    ],
+    "expected": [
+      105,
+      111,
+      194,
+      199
+    ],
+    "pass": true
+  },
+  "geometry_algorithms": {
+    "n_cases": 295,
+    "max_rel_err_calipers_vs_bruteforce": 5.6042330050678696e-11,
+    "max_abs_err_mec_vs_bruteforce_m": 2.4197532866310212e-11,
+    "pass": true
+  },
+  "invariants_p3": {
+    "n_cases": 40,
+    "max_time_breakdown_gap_s": 1.3642420526593924e-12,
+    "all_within_virtual_limit": true,
+    "all_cleared_flags_consistent": true,
+    "accounts_consistent": true,
+    "mean_ratio": 1.0,
+    "n_full_clear": 40
+  },
+  "invariants_p4": {
+    "n_cases": 40,
+    "max_time_breakdown_gap_s": 1.2732925824820995e-11,
+    "all_within_virtual_limit": true,
+    "all_cleared_flags_consistent": true,
+    "accounts_consistent": true,
+    "mean_ratio": 0.996514423076923,
+    "n_full_clear": 38
+  },
+  "adversarial_p3": {
+    "n_cases": 25,
+    "reception_radius_m": 1000.0,
+    "ratio_overall": 1.0,
+    "n_full_clear": 25,
+    "mean_avg_time_s": 348.563481824702
+  },
+  "adversarial_p4": {
+    "n_cases": 25,
+    "reception_radius_m": 1000.0,
+    "ratio_overall": 0.9968652037617555,
+    "n_full_clear": 24,
+    "mean_avg_time_s": 590.0132990008257
+  },
+  "reproducibility_p3": {
+    "all_identical": true,
+    "detail": [
+      {
+        "seed": 111,
+        "run1": [
+          3977.8744200091583,
+          127,
+          13
+        ],
+        "run2": [
+          3977.8744200091583,
+          127,
+          13
+        ],
+        "identical": true
+      },
+      {
+        "seed": 222,
+        "run1": [
+          3284.414555825386,
+          118,
+          14
+        ],
+        "run2": [
+          3284.414555825386,
+          118,
+          14
+        ],
+        "identical": true
+      },
+      {
+        "seed": 333,
+        "run1": [
+          3591.7083471004953,
+          136,
+          13
+        ],
+        "run2": [
+          3591.7083471004953,
+          136,
+          13
+        ],
+        "identical": true
+      }
+    ]
+  },
+  "reproducibility_p4": {
+    "all_identical": true,
+    "detail": [
+      {
+        "seed": 111,
+        "run1": [
+          6505.042626408689,
+          240,
+          16
+        ],
+        "run2": [
+          6505.042626408689,
+          240,
+          16
+        ],
+        "identical": true
+      },
+      {
+        "seed": 222,
+        "run1": [
+          6485.079316017326,
+          252,
+          51
+        ],
+        "run2": [
+          6485.079316017326,
+          252,
+          51
+        ],
+        "identical": true
+      },
+      {
+        "seed": 333,
+        "run1": [
+          7621.387721552407,
+          241,
+          111
+        ],
+        "run2": [
+          7621.387721552407,
+          241,
+          111
+        ],
+        "identical": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,5406 @@
+{
+  "uniform": {
+    "best_seed7": {
+      "d": 1150.0,
+      "alpha": 30.0,
+      "p_detect": 0.9994280837450447,
+      "E_log_diam": 4.005398091112857,
+      "E_diam_geom": 54.893672733234915,
+      "E_diam_detected": 56.77149647453273,
+      "E_mec_detected": null,
+      "P90_diam_detected": 83.98657557936612
+    },
+    "best_seed99": {
+      "d": 1100.0,
+      "alpha": 30.0,
+      "p_detect": 0.9999273458508872,
+      "E_log_diam": 4.004377860334761,
+      "E_diam_geom": 54.83769707768829,
+      "E_diam_detected": 57.290053360013665,
+      "E_mec_detected": null,
+      "P90_diam_detected": 87.03937161032562
+    },
+    "n_near": 25,
+    "near": [
+      {
+        "d": 1000.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.047397477083446,
+        "E_diam_geom": 57.2482730597078,
+        "E_diam_detected": 61.61443680700756,
+        "E_mec_detected": null,
+        "P90_diam_detected": 101.80735014116672
+      },
+      {
+        "d": 1000.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.033334259905964,
+        "E_diam_geom": 56.4488128300496,
+        "E_diam_detected": 60.69750876588884,
+        "E_mec_detected": null,
+        "P90_diam_detected": 102.8585062096196
+      },
+      {
+        "d": 1000.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0377054733122195,
+        "E_diam_geom": 56.69610272214764,
+        "E_diam_detected": 60.99335717310022,
+        "E_mec_detected": null,
+        "P90_diam_detected": 97.52409197401154
+      },
+      {
+        "d": 1050.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0286883789200045,
+        "E_diam_geom": 56.187166623030315,
+        "E_diam_detected": 59.44081391583688,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.83908537164292
+      },
+      {
+        "d": 1050.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.016109717402428,
+        "E_diam_geom": 55.48483373666688,
+        "E_diam_detected": 58.70197128104086,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.81773936803903
+      },
+      {
+        "d": 1050.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.028244223530187,
+        "E_diam_geom": 56.16221633144954,
+        "E_diam_detected": 59.60050078047716,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.65726221345342
+      },
+      {
+        "d": 1050.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0436111456034345,
+        "E_diam_geom": 57.03192196819271,
+        "E_diam_detected": 60.54285060068848,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.73350788449966
+      },
+      {
+        "d": 1100.0,
+        "alpha": 25.0,
+        "p_detect": 0.9999768899960975,
+        "E_log_diam": 4.019626565326454,
+        "E_diam_geom": 55.680308985897454,
+        "E_diam_detected": 58.14489768752355,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.87415213991778
+      },
+      {
+        "d": 1100.0,
+        "alpha": 30.0,
+        "p_detect": 0.9999273458508872,
+        "E_log_diam": 4.006062901803496,
+        "E_diam_geom": 54.93017876717264,
+        "E_diam_detected": 57.3779670170179,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.43215723157557
+      },
+      {
+        "d": 1100.0,
+        "alpha": 35.0,
+        "p_detect": 0.9998702482756778,
+        "E_log_diam": 4.013110684753355,
+        "E_diam_geom": 55.31868218026666,
+        "E_diam_detected": 57.963947116700346,
+        "E_mec_detected": null,
+        "P90_diam_detected": 88.21176551891767
+      },
+      {
+        "d": 1100.0,
+        "alpha": 40.0,
+        "p_detect": 0.9998061547774509,
+        "E_log_diam": 4.033381975734983,
+        "E_diam_geom": 56.45150639621326,
+        "E_diam_detected": 59.337783333063754,
+        "E_mec_detected": null,
+        "P90_diam_detected": 89.47161365117442
+      },
+      {
+        "d": 1150.0,
+        "alpha": 25.0,
+        "p_detect": 0.9994774275934559,
+        "E_log_diam": 4.021481143917933,
+        "E_diam_geom": 55.78366830927881,
+        "E_diam_detected": 57.6580914523662,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.53179917953553
+      },
+      {
+        "d": 1150.0,
+        "alpha": 30.0,
+        "p_detect": 0.9994280837450447,
+        "E_log_diam": 4.005398091112857,
+        "E_diam_geom": 54.893672733234915,
+        "E_diam_detected": 56.77149647453273,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.98657557936612
+      },
+      {
+        "d": 1150.0,
+        "alpha": 35.0,
+        "p_detect": 0.999371201672341,
+        "E_log_diam": 4.0077164210602305,
+        "E_diam_geom": 55.02108200995952,
+        "E_diam_detected": 57.012216303476215,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.60626917021054
+      },
+      {
+        "d": 1150.0,
+        "alpha": 40.0,
+        "p_detect": 0.9993073308346471,
+        "E_log_diam": 4.0292925764782055,
+        "E_diam_geom": 56.22112502966631,
+        "E_diam_detected": 58.57321721545446,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.90431595256761
+      },
+      {
+        "d": 1200.0,
+        "alpha": 25.0,
+        "p_detect": 0.9988208742186925,
+        "E_log_diam": 4.029910185553385,
+        "E_diam_geom": 56.25585843142945,
+        "E_diam_detected": 57.38334199927998,
+        "E_mec_detected": null,
+        "P90_diam_detected": 78.81884719376166
+      },
+      {
+        "d": 1200.0,
+        "alpha": 30.0,
+        "p_detect": 0.9984767085564574,
+        "E_log_diam": 4.008654843643237,
+        "E_diam_geom": 55.07273927023799,
+        "E_diam_detected": 56.47422682962568,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.33888891196311
+      },
+      {
+        "d": 1200.0,
+        "alpha": 35.0,
+        "p_detect": 0.9978869060656186,
+        "E_log_diam": 4.009179378501992,
+        "E_diam_geom": 55.101634419346325,
+        "E_diam_detected": 56.648179551577165,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.83919954586158
+      },
+      {
+        "d": 1200.0,
+        "alpha": 40.0,
+        "p_detect": 0.9970378392940918,
+        "E_log_diam": 4.026434246551329,
+        "E_diam_geom": 56.060655951508906,
+        "E_diam_detected": 57.887214733664386,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.65400398522402
+      },
+      {
+        "d": 1250.0,
+        "alpha": 25.0,
+        "p_detect": 0.9961444805129617,
+        "E_log_diam": 4.047009896580033,
+        "E_diam_geom": 57.226089044539414,
+        "E_diam_detected": 58.073321814014136,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.41306064521193
+      },
+      {
+        "d": 1250.0,
+        "alpha": 30.0,
+        "p_detect": 0.9953931565114388,
+        "E_log_diam": 4.025202014993733,
+        "E_diam_geom": 55.99161878572855,
+        "E_diam_detected": 56.653604994099354,
+        "E_mec_detected": null,
+        "P90_diam_detected": 76.28463958674563
+      },
+      {
+        "d": 1250.0,
+        "alpha": 35.0,
+        "p_detect": 0.9942169665107699,
+        "E_log_diam": 4.014805104148667,
+        "E_diam_geom": 55.41249468469447,
+        "E_diam_detected": 56.61150040367247,
+        "E_mec_detected": null,
+        "P90_diam_detected": 78.63352400042564
+      },
+      {
+        "d": 1250.0,
+        "alpha": 40.0,
+        "p_detect": 0.9924108835925015,
+        "E_log_diam": 4.049301385463909,
+        "E_diam_geom": 57.35737235112495,
+        "E_diam_detected": 57.81131821889019,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.7726051223422
+      },
+      {
+        "d": 1300.0,
+        "alpha": 30.0,
+        "p_detect": 0.9902945563767167,
+        "E_log_diam": 4.039256860431531,
+        "E_diam_geom": 56.78412858906895,
+        "E_diam_detected": 57.142815521048995,
+        "E_mec_detected": null,
+        "P90_diam_detected": 72.52060266573265
+      },
+      {
+        "d": 1300.0,
+        "alpha": 35.0,
+        "p_detect": 0.9881513692505786,
+        "E_log_diam": 4.043790985459441,
+        "E_diam_geom": 57.04217950315638,
+        "E_diam_detected": 56.87055759850332,
+        "E_mec_detected": null,
+        "P90_diam_detected": 74.82340291082302
+      }
+    ],
+    "grid": [
+      {
+        "d": 600.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.464378540197626,
+        "E_diam_geom": 641.8653459611654,
+        "E_diam_detected": 752.1337854911276,
+        "E_mec_detected": null,
+        "P90_diam_detected": 900.2094056727592
+      },
+      {
+        "d": 600.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.481954873428534,
+        "E_diam_geom": 240.3160359189104,
+        "E_diam_detected": 331.59070271890675,
+        "E_mec_detected": null,
+        "P90_diam_detected": 565.3170454576943
+      },
+      {
+        "d": 600.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.0117869880177635,
+        "E_diam_geom": 150.17285360634395,
+        "E_diam_detected": 210.33251806184452,
+        "E_mec_detected": null,
+        "P90_diam_detected": 391.7459785501106
+      },
+      {
+        "d": 600.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.772788438767004,
+        "E_diam_geom": 118.24851140682392,
+        "E_diam_detected": 164.53889572465397,
+        "E_mec_detected": null,
+        "P90_diam_detected": 314.3927534894323
+      },
+      {
+        "d": 600.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.609449703835063,
+        "E_diam_geom": 100.428868806017,
+        "E_diam_detected": 135.75220633381633,
+        "E_mec_detected": null,
+        "P90_diam_detected": 258.1997278218781
+      },
+      {
+        "d": 600.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.518642008813861,
+        "E_diam_geom": 91.71097068606322,
+        "E_diam_detected": 121.89745432552874,
+        "E_mec_detected": null,
+        "P90_diam_detected": 231.10290586708564
+      },
+      {
+        "d": 600.0,
+        "alpha": 30.0,
+        "p_detect": 0.999320734041587,
+        "E_log_diam": 4.46488394294683,
+        "E_diam_geom": 86.91094232656296,
+        "E_diam_detected": 113.77374233002955,
+        "E_mec_detected": null,
+        "P90_diam_detected": 218.8517189601062
+      },
+      {
+        "d": 600.0,
+        "alpha": 35.0,
+        "p_detect": 0.9930494785788488,
+        "E_log_diam": 4.433813487649327,
+        "E_diam_geom": 84.25209940277689,
+        "E_diam_detected": 108.61074079957392,
+        "E_mec_detected": null,
+        "P90_diam_detected": 205.20975465425684
+      },
+      {
+        "d": 600.0,
+        "alpha": 40.0,
+        "p_detect": 0.9810067654811361,
+        "E_log_diam": 4.4213368058981635,
+        "E_diam_geom": 83.20744324443143,
+        "E_diam_detected": 104.71970133235794,
+        "E_mec_detected": null,
+        "P90_diam_detected": 189.22416693323652
+      },
+      {
+        "d": 600.0,
+        "alpha": 45.0,
+        "p_detect": 0.9643260600886714,
+        "E_log_diam": 4.4298524277769875,
+        "E_diam_geom": 83.91903187836061,
+        "E_diam_detected": 101.70037449460905,
+        "E_mec_detected": null,
+        "P90_diam_detected": 184.96952155891793
+      },
+      {
+        "d": 600.0,
+        "alpha": 50.0,
+        "p_detect": 0.9409565300792552,
+        "E_log_diam": 4.470141393296435,
+        "E_diam_geom": 87.36907554173544,
+        "E_diam_detected": 101.44733626445878,
+        "E_mec_detected": null,
+        "P90_diam_detected": 186.5747549481703
+      },
+      {
+        "d": 600.0,
+        "alpha": 55.0,
+        "p_detect": 0.9118605124585306,
+        "E_log_diam": 4.5525897421101265,
+        "E_diam_geom": 94.87779946046308,
+        "E_diam_detected": 96.2788541658704,
+        "E_mec_detected": null,
+        "P90_diam_detected": 174.7281461165562
+      },
+      {
+        "d": 600.0,
+        "alpha": 60.0,
+        "p_detect": 0.8763539527181695,
+        "E_log_diam": 4.606926884337242,
+        "E_diam_geom": 100.1758242247618,
+        "E_diam_detected": 100.30671219998001,
+        "E_mec_detected": null,
+        "P90_diam_detected": 182.82229878597073
+      },
+      {
+        "d": 650.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.455868269623529,
+        "E_diam_geom": 636.4260758531602,
+        "E_diam_detected": 725.2787434717363,
+        "E_mec_detected": null,
+        "P90_diam_detected": 850.2317971590467
+      },
+      {
+        "d": 650.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.38971007634821,
+        "E_diam_geom": 219.13984251968947,
+        "E_diam_detected": 293.187612895527,
+        "E_mec_detected": null,
+        "P90_diam_detected": 512.559068183834
+      },
+      {
+        "d": 650.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.913721917336022,
+        "E_diam_geom": 136.14519374697807,
+        "E_diam_detected": 185.91167284709547,
+        "E_mec_detected": null,
+        "P90_diam_detected": 360.89160410156654
+      },
+      {
+        "d": 650.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.662428505765614,
+        "E_diam_geom": 105.89293174535344,
+        "E_diam_detected": 142.12669113788942,
+        "E_mec_detected": null,
+        "P90_diam_detected": 279.7585293211274
+      },
+      {
+        "d": 650.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.515720834791896,
+        "E_diam_geom": 91.44345789690067,
+        "E_diam_detected": 120.61928317442303,
+        "E_mec_detected": null,
+        "P90_diam_detected": 233.86178646030615
+      },
+      {
+        "d": 650.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.422949107041143,
+        "E_diam_geom": 83.34170690792286,
+        "E_diam_detected": 107.48454953511015,
+        "E_mec_detected": null,
+        "P90_diam_detected": 210.2098713458204
+      },
+      {
+        "d": 650.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.374891732008686,
+        "E_diam_geom": 79.43123922598116,
+        "E_diam_detected": 101.1118678597462,
+        "E_mec_detected": null,
+        "P90_diam_detected": 191.53991903538096
+      },
+      {
+        "d": 650.0,
+        "alpha": 35.0,
+        "p_detect": 0.9981852958774065,
+        "E_log_diam": 4.347958280596588,
+        "E_diam_geom": 77.3204350233731,
+        "E_diam_detected": 97.00191329048485,
+        "E_mec_detected": null,
+        "P90_diam_detected": 182.30041180297394
+      },
+      {
+        "d": 650.0,
+        "alpha": 40.0,
+        "p_detect": 0.9874077242676378,
+        "E_log_diam": 4.34491034820748,
+        "E_diam_geom": 77.08512634975531,
+        "E_diam_detected": 95.44141752176374,
+        "E_mec_detected": null,
+        "P90_diam_detected": 177.10880613698717
+      },
+      {
+        "d": 650.0,
+        "alpha": 45.0,
+        "p_detect": 0.9713248081805829,
+        "E_log_diam": 4.358120066057421,
+        "E_diam_geom": 78.11015437950724,
+        "E_diam_detected": 94.40335151423453,
+        "E_mec_detected": null,
+        "P90_diam_detected": 174.89903207515738
+      },
+      {
+        "d": 650.0,
+        "alpha": 50.0,
+        "p_detect": 0.947147937631977,
+        "E_log_diam": 4.396137023461881,
+        "E_diam_geom": 81.13683281738047,
+        "E_diam_detected": 94.16080650253049,
+        "E_mec_detected": null,
+        "P90_diam_detected": 170.92237906160784
+      },
+      {
+        "d": 650.0,
+        "alpha": 55.0,
+        "p_detect": 0.9162072012593769,
+        "E_log_diam": 4.45553554820397,
+        "E_diam_geom": 86.10225040533052,
+        "E_diam_detected": 93.65779863349856,
+        "E_mec_detected": null,
+        "P90_diam_detected": 170.65653588731016
+      },
+      {
+        "d": 650.0,
+        "alpha": 60.0,
+        "p_detect": 0.8777050832909784,
+        "E_log_diam": 4.5743265055872735,
+        "E_diam_geom": 96.96271329546072,
+        "E_diam_detected": 90.45698628847528,
+        "E_mec_detected": null,
+        "P90_diam_detected": 161.05708400033876
+      },
+      {
+        "d": 700.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.391525389746624,
+        "E_diam_geom": 596.7661867814242,
+        "E_diam_detected": 675.4372548250926,
+        "E_mec_detected": null,
+        "P90_diam_detected": 800.2569860606668
+      },
+      {
+        "d": 700.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.295876373710937,
+        "E_diam_geom": 199.51239679266132,
+        "E_diam_detected": 261.8605666615089,
+        "E_mec_detected": null,
+        "P90_diam_detected": 467.42182036723597
+      },
+      {
+        "d": 700.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.7973955018273955,
+        "E_diam_geom": 121.1943556283277,
+        "E_diam_detected": 161.76606153210847,
+        "E_mec_detected": null,
+        "P90_diam_detected": 311.73181951775786
+      },
+      {
+        "d": 700.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.568577336821575,
+        "E_diam_geom": 96.40685767767754,
+        "E_diam_detected": 126.03727306626377,
+        "E_mec_detected": null,
+        "P90_diam_detected": 247.70817559489385
+      },
+      {
+        "d": 700.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.424274944077943,
+        "E_diam_geom": 83.45227771288856,
+        "E_diam_detected": 106.70769372687923,
+        "E_mec_detected": null,
+        "P90_diam_detected": 208.59991062186793
+      },
+      {
+        "d": 700.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.343899422679966,
+        "E_diam_geom": 77.00723840382638,
+        "E_diam_detected": 96.11026575670188,
+        "E_mec_detected": null,
+        "P90_diam_detected": 185.01895118279126
+      },
+      {
+        "d": 700.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.289990624487557,
+        "E_diam_geom": 72.96578440480636,
+        "E_diam_detected": 90.01444744121748,
+        "E_mec_detected": null,
+        "P90_diam_detected": 173.3473569899765
+      },
+      {
+        "d": 700.0,
+        "alpha": 35.0,
+        "p_detect": 0.9998896473540612,
+        "E_log_diam": 4.282482727756698,
+        "E_diam_geom": 72.42001618002051,
+        "E_diam_detected": 88.39063338340668,
+        "E_mec_detected": null,
+        "P90_diam_detected": 164.41711455568728
+      },
+      {
+        "d": 700.0,
+        "alpha": 40.0,
+        "p_detect": 0.9929859025299222,
+        "E_log_diam": 4.280421743162787,
+        "E_diam_geom": 72.27091334448428,
+        "E_diam_detected": 87.40673173734461,
+        "E_mec_detected": null,
+        "P90_diam_detected": 159.02152019769716
+      },
+      {
+        "d": 700.0,
+        "alpha": 45.0,
+        "p_detect": 0.9768060812184864,
+        "E_log_diam": 4.29861572893341,
+        "E_diam_geom": 73.5978437870007,
+        "E_diam_detected": 87.4914703407938,
+        "E_mec_detected": null,
+        "P90_diam_detected": 157.9686575131816
+      },
+      {
+        "d": 700.0,
+        "alpha": 50.0,
+        "p_detect": 0.9521913138028648,
+        "E_log_diam": 4.335857385835499,
+        "E_diam_geom": 76.39042689007242,
+        "E_diam_detected": 86.7800528154451,
+        "E_mec_detected": null,
+        "P90_diam_detected": 155.88732785658314
+      },
+      {
+        "d": 700.0,
+        "alpha": 55.0,
+        "p_detect": 0.9191820947485106,
+        "E_log_diam": 4.417522258332207,
+        "E_diam_geom": 82.89064909164937,
+        "E_diam_detected": 85.35058241752027,
+        "E_mec_detected": null,
+        "P90_diam_detected": 155.41261875274577
+      },
+      {
+        "d": 700.0,
+        "alpha": 60.0,
+        "p_detect": 0.8773435903818,
+        "E_log_diam": 4.501419114062443,
+        "E_diam_geom": 90.14496656236628,
+        "E_diam_detected": 89.47901202586995,
+        "E_mec_detected": null,
+        "P90_diam_detected": 156.13322677895547
+      },
+      {
+        "d": 750.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.3587807415453605,
+        "E_diam_geom": 577.5417542681663,
+        "E_diam_detected": 653.4644118761812,
+        "E_mec_detected": null,
+        "P90_diam_detected": 750.2855313662275
+      },
+      {
+        "d": 750.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.192478770170994,
+        "E_diam_geom": 179.913966037769,
+        "E_diam_detected": 230.86813001572932,
+        "E_mec_detected": null,
+        "P90_diam_detected": 411.51772364482713
+      },
+      {
+        "d": 750.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.713222360075163,
+        "E_diam_geom": 111.41058713268576,
+        "E_diam_detected": 143.19031408498012,
+        "E_mec_detected": null,
+        "P90_diam_detected": 278.5153710525426
+      },
+      {
+        "d": 750.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.480479716996679,
+        "E_diam_geom": 88.27701050210592,
+        "E_diam_detected": 111.27509483473284,
+        "E_mec_detected": null,
+        "P90_diam_detected": 220.91357599594983
+      },
+      {
+        "d": 750.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.342936068441264,
+        "E_diam_geom": 76.93308887616475,
+        "E_diam_detected": 94.87709985228244,
+        "E_mec_detected": null,
+        "P90_diam_detected": 186.6849386429658
+      },
+      {
+        "d": 750.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.26705731907901,
+        "E_diam_geom": 71.31147962930704,
+        "E_diam_detected": 86.56954001667516,
+        "E_mec_detected": null,
+        "P90_diam_detected": 169.1130974065736
+      },
+      {
+        "d": 750.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.236859870170776,
+        "E_diam_geom": 69.19024401003958,
+        "E_diam_detected": 83.31561743964203,
+        "E_mec_detected": null,
+        "P90_diam_detected": 159.48607641527119
+      },
+      {
+        "d": 750.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.224368956548629,
+        "E_diam_geom": 68.33136987689495,
+        "E_diam_detected": 81.40639229240628,
+        "E_mec_detected": null,
+        "P90_diam_detected": 149.11996371929519
+      },
+      {
+        "d": 750.0,
+        "alpha": 40.0,
+        "p_detect": 0.9971254931687897,
+        "E_log_diam": 4.221467763072322,
+        "E_diam_geom": 68.13341464444332,
+        "E_diam_detected": 80.66432666170654,
+        "E_mec_detected": null,
+        "P90_diam_detected": 144.880036345935
+      },
+      {
+        "d": 750.0,
+        "alpha": 45.0,
+        "p_detect": 0.9811348408741797,
+        "E_log_diam": 4.245396213132753,
+        "E_diam_geom": 69.78340376817918,
+        "E_diam_detected": 81.34476268356842,
+        "E_mec_detected": null,
+        "P90_diam_detected": 142.8898835509612
+      },
+      {
+        "d": 750.0,
+        "alpha": 50.0,
+        "p_detect": 0.9559921726176035,
+        "E_log_diam": 4.2997021873353605,
+        "E_diam_geom": 73.67784823563149,
+        "E_diam_detected": 80.32033817141499,
+        "E_mec_detected": null,
+        "P90_diam_detected": 140.31300497251024
+      },
+      {
+        "d": 750.0,
+        "alpha": 55.0,
+        "p_detect": 0.920780869788063,
+        "E_log_diam": 4.399367553297949,
+        "E_diam_geom": 81.39937161798701,
+        "E_diam_detected": 81.80308566023744,
+        "E_mec_detected": null,
+        "P90_diam_detected": 146.82408978223532
+      },
+      {
+        "d": 750.0,
+        "alpha": 60.0,
+        "p_detect": 0.8752856644471874,
+        "E_log_diam": 4.475942951167593,
+        "E_diam_geom": 87.87742547457833,
+        "E_diam_detected": 83.6811738836347,
+        "E_mec_detected": null,
+        "P90_diam_detected": 147.22937982162742
+      },
+      {
+        "d": 800.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.221678949666566,
+        "E_diam_geom": 503.5479543687432,
+        "E_diam_detected": 604.4414038333595,
+        "E_mec_detected": null,
+        "P90_diam_detected": 800.0
+      },
+      {
+        "d": 800.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.093058047727542,
+        "E_diam_geom": 162.887218083765,
+        "E_diam_detected": 207.991239959579,
+        "E_mec_detected": null,
+        "P90_diam_detected": 375.0304366714189
+      },
+      {
+        "d": 800.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.620813292159432,
+        "E_diam_geom": 101.5766100055235,
+        "E_diam_detected": 126.68580114040822,
+        "E_mec_detected": null,
+        "P90_diam_detected": 237.33686709180955
+      },
+      {
+        "d": 800.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.390207037328156,
+        "E_diam_geom": 80.6571162857872,
+        "E_diam_detected": 98.93273966006831,
+        "E_mec_detected": null,
+        "P90_diam_detected": 198.4888823193662
+      },
+      {
+        "d": 800.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.269797467362925,
+        "E_diam_geom": 71.50715162054007,
+        "E_diam_detected": 85.25808916973476,
+        "E_mec_detected": null,
+        "P90_diam_detected": 160.8130743952163
+      },
+      {
+        "d": 800.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.206959240616632,
+        "E_diam_geom": 67.15203586088302,
+        "E_diam_detected": 79.41254061076103,
+        "E_mec_detected": null,
+        "P90_diam_detected": 152.1043415782109
+      },
+      {
+        "d": 800.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.177798095698311,
+        "E_diam_geom": 65.22208220372546,
+        "E_diam_detected": 76.43256624945947,
+        "E_mec_detected": null,
+        "P90_diam_detected": 143.11823874492038
+      },
+      {
+        "d": 800.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.169070606660863,
+        "E_diam_geom": 64.65533393831552,
+        "E_diam_detected": 75.2320160318144,
+        "E_mec_detected": null,
+        "P90_diam_detected": 135.3381628090394
+      },
+      {
+        "d": 800.0,
+        "alpha": 40.0,
+        "p_detect": 0.999015269920549,
+        "E_log_diam": 4.1830540188175505,
+        "E_diam_geom": 65.56578690497903,
+        "E_diam_detected": 75.91996852279597,
+        "E_mec_detected": null,
+        "P90_diam_detected": 133.8003801698891
+      },
+      {
+        "d": 800.0,
+        "alpha": 45.0,
+        "p_detect": 0.9845739184821867,
+        "E_log_diam": 4.19907914604255,
+        "E_diam_geom": 66.62495093447262,
+        "E_diam_detected": 76.65959600723316,
+        "E_mec_detected": null,
+        "P90_diam_detected": 133.2242973141346
+      },
+      {
+        "d": 800.0,
+        "alpha": 50.0,
+        "p_detect": 0.9587329446633862,
+        "E_log_diam": 4.247139657912938,
+        "E_diam_geom": 69.90517339769062,
+        "E_diam_detected": 77.31973052202311,
+        "E_mec_detected": null,
+        "P90_diam_detected": 135.26578490122705
+      },
+      {
+        "d": 800.0,
+        "alpha": 55.0,
+        "p_detect": 0.9209672619188335,
+        "E_log_diam": 4.3226098875625345,
+        "E_diam_geom": 75.3851184549297,
+        "E_diam_detected": 80.54421589802196,
+        "E_mec_detected": null,
+        "P90_diam_detected": 139.037717121941
+      },
+      {
+        "d": 800.0,
+        "alpha": 60.0,
+        "p_detect": 0.8713676767027088,
+        "E_log_diam": 4.514590967119702,
+        "E_diam_geom": 91.34019723641556,
+        "E_diam_detected": 76.37229357699195,
+        "E_mec_detected": null,
+        "P90_diam_detected": 128.90152920538787
+      },
+      {
+        "d": 850.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.163964086190066,
+        "E_diam_geom": 475.3085091677372,
+        "E_diam_detected": 576.1121766127005,
+        "E_mec_detected": null,
+        "P90_diam_detected": 850.0
+      },
+      {
+        "d": 850.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.996617473092053,
+        "E_diam_geom": 147.91199567564504,
+        "E_diam_detected": 186.63682086126727,
+        "E_mec_detected": null,
+        "P90_diam_detected": 336.49433104194395
+      },
+      {
+        "d": 850.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.5337592917727845,
+        "E_diam_geom": 93.10792384448142,
+        "E_diam_detected": 113.39800780163613,
+        "E_mec_detected": null,
+        "P90_diam_detected": 213.13445854948841
+      },
+      {
+        "d": 850.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.320450849273748,
+        "E_diam_geom": 75.22253467324202,
+        "E_diam_detected": 88.98089409126946,
+        "E_mec_detected": null,
+        "P90_diam_detected": 168.3185715524551
+      },
+      {
+        "d": 850.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.208351802538093,
+        "E_diam_geom": 67.24561437078377,
+        "E_diam_detected": 78.04553351231915,
+        "E_mec_detected": null,
+        "P90_diam_detected": 146.38410493235838
+      },
+      {
+        "d": 850.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.152941887601813,
+        "E_diam_geom": 63.620890767721356,
+        "E_diam_detected": 72.92552587315018,
+        "E_mec_detected": null,
+        "P90_diam_detected": 135.2430183513899
+      },
+      {
+        "d": 850.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.133103016331448,
+        "E_diam_geom": 62.3711617015542,
+        "E_diam_detected": 71.21824273200889,
+        "E_mec_detected": null,
+        "P90_diam_detected": 127.9646517791721
+      },
+      {
+        "d": 850.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.12173525537223,
+        "E_diam_geom": 61.666156004772006,
+        "E_diam_detected": 70.05584730854966,
+        "E_mec_detected": null,
+        "P90_diam_detected": 122.33047617485813
+      },
+      {
+        "d": 850.0,
+        "alpha": 40.0,
+        "p_detect": 0.9998339970637657,
+        "E_log_diam": 4.140362702122419,
+        "E_diam_geom": 62.82560429727914,
+        "E_diam_detected": 71.22383110928455,
+        "E_mec_detected": null,
+        "P90_diam_detected": 122.6391477070953
+      },
+      {
+        "d": 850.0,
+        "alpha": 45.0,
+        "p_detect": 0.9872587171897041,
+        "E_log_diam": 4.159473276514475,
+        "E_diam_geom": 64.03778351059528,
+        "E_diam_detected": 72.39177777659091,
+        "E_mec_detected": null,
+        "P90_diam_detected": 123.75300053135888
+      },
+      {
+        "d": 850.0,
+        "alpha": 50.0,
+        "p_detect": 0.9604274587292971,
+        "E_log_diam": 4.2200687887228305,
+        "E_diam_geom": 68.03816438688077,
+        "E_diam_detected": 74.99161204547967,
+        "E_mec_detected": null,
+        "P90_diam_detected": 129.47929345473437
+      },
+      {
+        "d": 850.0,
+        "alpha": 55.0,
+        "p_detect": 0.9196736086288783,
+        "E_log_diam": 4.316217696960478,
+        "E_diam_geom": 74.90477925462605,
+        "E_diam_detected": 74.57885493650903,
+        "E_mec_detected": null,
+        "P90_diam_detected": 126.88308140892477
+      },
+      {
+        "d": 850.0,
+        "alpha": 60.0,
+        "p_detect": 0.865612712436907,
+        "E_log_diam": 4.452763783901577,
+        "E_diam_geom": 85.86392570383228,
+        "E_diam_detected": 75.52836228473248,
+        "E_mec_detected": null,
+        "P90_diam_detected": 128.08619777210717
+      },
+      {
+        "d": 900.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.121132068678087,
+        "E_diam_geom": 455.3799241555875,
+        "E_diam_detected": 552.492328154615,
+        "E_mec_detected": null,
+        "P90_diam_detected": 900.0
+      },
+      {
+        "d": 900.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.905674938483974,
+        "E_diam_geom": 135.05403241623463,
+        "E_diam_detected": 169.40636762745453,
+        "E_mec_detected": null,
+        "P90_diam_detected": 296.92082413246766
+      },
+      {
+        "d": 900.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.457786904595047,
+        "E_diam_geom": 86.29631563008877,
+        "E_diam_detected": 103.26944100225272,
+        "E_mec_detected": null,
+        "P90_diam_detected": 192.39090683256615
+      },
+      {
+        "d": 900.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.264585338142552,
+        "E_diam_geom": 71.13541671285479,
+        "E_diam_detected": 82.11301218271795,
+        "E_mec_detected": null,
+        "P90_diam_detected": 155.4639798748256
+      },
+      {
+        "d": 900.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.15660691804571,
+        "E_diam_geom": 63.85449108390287,
+        "E_diam_detected": 72.03705688670644,
+        "E_mec_detected": null,
+        "P90_diam_detected": 130.15764766026558
+      },
+      {
+        "d": 900.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.112195434865291,
+        "E_diam_geom": 61.08066910543247,
+        "E_diam_detected": 68.56399073897674,
+        "E_mec_detected": null,
+        "P90_diam_detected": 122.04863664017208
+      },
+      {
+        "d": 900.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.093730953506915,
+        "E_diam_geom": 59.96319477024854,
+        "E_diam_detected": 66.96434330826051,
+        "E_mec_detected": null,
+        "P90_diam_detected": 116.45055448871842
+      },
+      {
+        "d": 900.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.089692080912658,
+        "E_diam_geom": 59.72149948301706,
+        "E_diam_detected": 66.5437002904503,
+        "E_mec_detected": null,
+        "P90_diam_detected": 114.60798218379152
+      },
+      {
+        "d": 900.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.11008426783085,
+        "E_diam_geom": 60.95185363370865,
+        "E_diam_detected": 67.84447066990374,
+        "E_mec_detected": null,
+        "P90_diam_detected": 114.44976949986076
+      },
+      {
+        "d": 900.0,
+        "alpha": 45.0,
+        "p_detect": 0.9892283152466885,
+        "E_log_diam": 4.13477086522799,
+        "E_diam_geom": 62.475274172574814,
+        "E_diam_detected": 68.49920291212048,
+        "E_mec_detected": null,
+        "P90_diam_detected": 114.39772731571222
+      },
+      {
+        "d": 900.0,
+        "alpha": 50.0,
+        "p_detect": 0.9610653645765853,
+        "E_log_diam": 4.186096928983082,
+        "E_diam_geom": 65.76560155930602,
+        "E_diam_detected": 70.08190824320367,
+        "E_mec_detected": null,
+        "P90_diam_detected": 117.03884421036314
+      },
+      {
+        "d": 900.0,
+        "alpha": 55.0,
+        "p_detect": 0.9167808363076861,
+        "E_log_diam": 4.326417982647094,
+        "E_diam_geom": 75.67273945043641,
+        "E_diam_detected": 70.83894405613343,
+        "E_mec_detected": null,
+        "P90_diam_detected": 119.74058357518382
+      },
+      {
+        "d": 900.0,
+        "alpha": 60.0,
+        "p_detect": 0.8574695508346957,
+        "E_log_diam": 4.447789304549223,
+        "E_diam_geom": 85.43785798943314,
+        "E_diam_detected": 72.76215593575218,
+        "E_mec_detected": null,
+        "P90_diam_detected": 123.69433965571156
+      },
+      {
+        "d": 950.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.039796775122955,
+        "E_diam_geom": 419.8077108465653,
+        "E_diam_detected": 535.6638390259916,
+        "E_mec_detected": null,
+        "P90_diam_detected": 950.0
+      },
+      {
+        "d": 950.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.834594865476432,
+        "E_diam_geom": 125.78761197821825,
+        "E_diam_detected": 155.28350667681042,
+        "E_mec_detected": null,
+        "P90_diam_detected": 269.1147737742112
+      },
+      {
+        "d": 950.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.3983469299828,
+        "E_diam_geom": 81.31633590277674,
+        "E_diam_detected": 94.57958152862984,
+        "E_mec_detected": null,
+        "P90_diam_detected": 166.86930685987036
+      },
+      {
+        "d": 950.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.216754365531707,
+        "E_diam_geom": 67.8130304176786,
+        "E_diam_detected": 76.38020384463984,
+        "E_mec_detected": null,
+        "P90_diam_detected": 136.62014353096197
+      },
+      {
+        "d": 950.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.116312739081974,
+        "E_diam_geom": 61.33267523885132,
+        "E_diam_detected": 67.60076658063117,
+        "E_mec_detected": null,
+        "P90_diam_detected": 116.12529379400003
+      },
+      {
+        "d": 950.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0758584321572995,
+        "E_diam_geom": 58.901021423192255,
+        "E_diam_detected": 64.60589391123358,
+        "E_mec_detected": null,
+        "P90_diam_detected": 110.65312970121603
+      },
+      {
+        "d": 950.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.059523944847946,
+        "E_diam_geom": 57.946718677756856,
+        "E_diam_detected": 63.39475579730406,
+        "E_mec_detected": null,
+        "P90_diam_detected": 106.34022115972022
+      },
+      {
+        "d": 950.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.064969764313506,
+        "E_diam_geom": 58.26314686967684,
+        "E_diam_detected": 63.65340534837215,
+        "E_mec_detected": null,
+        "P90_diam_detected": 107.04926702721657
+      },
+      {
+        "d": 950.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.078802976325485,
+        "E_diam_geom": 59.074713679086095,
+        "E_diam_detected": 64.73882824025303,
+        "E_mec_detected": null,
+        "P90_diam_detected": 109.30730166653811
+      },
+      {
+        "d": 950.0,
+        "alpha": 45.0,
+        "p_detect": 0.9905276379600397,
+        "E_log_diam": 4.110011926989375,
+        "E_diam_geom": 60.947444484810056,
+        "E_diam_detected": 66.40851927457351,
+        "E_mec_detected": null,
+        "P90_diam_detected": 107.9875752186071
+      },
+      {
+        "d": 950.0,
+        "alpha": 50.0,
+        "p_detect": 0.9606428185631859,
+        "E_log_diam": 4.191850838021367,
+        "E_diam_geom": 66.14510160587709,
+        "E_diam_detected": 67.63905073083798,
+        "E_mec_detected": null,
+        "P90_diam_detected": 112.72197275074586
+      },
+      {
+        "d": 950.0,
+        "alpha": 55.0,
+        "p_detect": 0.9122444537636395,
+        "E_log_diam": 4.305372467760711,
+        "E_diam_geom": 74.09680898619771,
+        "E_diam_detected": 68.55718468711986,
+        "E_mec_detected": null,
+        "P90_diam_detected": 116.83171479731129
+      },
+      {
+        "d": 950.0,
+        "alpha": 60.0,
+        "p_detect": 0.8460654931462109,
+        "E_log_diam": 4.516323139308892,
+        "E_diam_geom": 91.49855129447731,
+        "E_diam_detected": 68.82067046170427,
+        "E_mec_detected": null,
+        "P90_diam_detected": 111.32088111356107
+      },
+      {
+        "d": 1000.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.039445896805757,
+        "E_diam_geom": 419.66043526285233,
+        "E_diam_detected": 548.3089550156853,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1000.0
+      },
+      {
+        "d": 1000.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.787688180888479,
+        "E_diam_geom": 120.0235748881993,
+        "E_diam_detected": 146.71148333953627,
+        "E_mec_detected": null,
+        "P90_diam_detected": 252.02636398074193
+      },
+      {
+        "d": 1000.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.361553416136705,
+        "E_diam_geom": 78.378794788632,
+        "E_diam_detected": 89.46216179025018,
+        "E_mec_detected": null,
+        "P90_diam_detected": 156.5382844386334
+      },
+      {
+        "d": 1000.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.180840457489662,
+        "E_diam_geom": 65.42081352758018,
+        "E_diam_detected": 72.13932711656498,
+        "E_mec_detected": null,
+        "P90_diam_detected": 121.05411427841918
+      },
+      {
+        "d": 1000.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.088576189559956,
+        "E_diam_geom": 59.6548939473557,
+        "E_diam_detected": 64.66144925980669,
+        "E_mec_detected": null,
+        "P90_diam_detected": 107.92734314830905
+      },
+      {
+        "d": 1000.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.047397477083446,
+        "E_diam_geom": 57.2482730597078,
+        "E_diam_detected": 61.61443680700756,
+        "E_mec_detected": null,
+        "P90_diam_detected": 101.80735014116672
+      },
+      {
+        "d": 1000.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.033334259905964,
+        "E_diam_geom": 56.4488128300496,
+        "E_diam_detected": 60.69750876588884,
+        "E_mec_detected": null,
+        "P90_diam_detected": 102.8585062096196
+      },
+      {
+        "d": 1000.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0377054733122195,
+        "E_diam_geom": 56.69610272214764,
+        "E_diam_detected": 60.99335717310022,
+        "E_mec_detected": null,
+        "P90_diam_detected": 97.52409197401154
+      },
+      {
+        "d": 1000.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.063871746940435,
+        "E_diam_geom": 58.19920803160556,
+        "E_diam_detected": 62.79063835971794,
+        "E_mec_detected": null,
+        "P90_diam_detected": 101.38731547563222
+      },
+      {
+        "d": 1000.0,
+        "alpha": 45.0,
+        "p_detect": 0.9911824564000927,
+        "E_log_diam": 4.099230801197009,
+        "E_diam_geom": 60.293891766466295,
+        "E_diam_detected": 64.85470406105667,
+        "E_mec_detected": null,
+        "P90_diam_detected": 105.00663514225617
+      },
+      {
+        "d": 1000.0,
+        "alpha": 50.0,
+        "p_detect": 0.9590944493229284,
+        "E_log_diam": 4.1617149557092326,
+        "E_diam_geom": 64.18149669681779,
+        "E_diam_detected": 66.23955778486255,
+        "E_mec_detected": null,
+        "P90_diam_detected": 104.79310250096566
+      },
+      {
+        "d": 1000.0,
+        "alpha": 55.0,
+        "p_detect": 0.905797177589035,
+        "E_log_diam": 4.306584267299835,
+        "E_diam_geom": 74.18665389119049,
+        "E_diam_detected": 67.15597654170493,
+        "E_mec_detected": null,
+        "P90_diam_detected": 107.77515314951779
+      },
+      {
+        "d": 1000.0,
+        "alpha": 60.0,
+        "p_detect": 0.8309284504878466,
+        "E_log_diam": 4.488814871205468,
+        "E_diam_geom": 89.01588804910413,
+        "E_diam_detected": 68.9496836521121,
+        "E_mec_detected": null,
+        "P90_diam_detected": 112.374340238436
+      },
+      {
+        "d": 1050.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.017886355596635,
+        "E_diam_geom": 410.7095836460488,
+        "E_diam_detected": 553.9477889031741,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1050.0
+      },
+      {
+        "d": 1050.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.748440374854424,
+        "E_diam_geom": 115.40415687292752,
+        "E_diam_detected": 139.91922905300555,
+        "E_mec_detected": null,
+        "P90_diam_detected": 235.91023961967528
+      },
+      {
+        "d": 1050.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.3359275730029765,
+        "E_diam_geom": 76.39578870592133,
+        "E_diam_detected": 85.73069417738661,
+        "E_mec_detected": null,
+        "P90_diam_detected": 141.9496293228284
+      },
+      {
+        "d": 1050.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.159663026871056,
+        "E_diam_geom": 64.04993585577053,
+        "E_diam_detected": 69.38171627936072,
+        "E_mec_detected": null,
+        "P90_diam_detected": 112.67535784649333
+      },
+      {
+        "d": 1050.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.072220977072254,
+        "E_diam_geom": 58.68716079332042,
+        "E_diam_detected": 62.47523305297835,
+        "E_mec_detected": null,
+        "P90_diam_detected": 99.447509671197
+      },
+      {
+        "d": 1050.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0286883789200045,
+        "E_diam_geom": 56.187166623030315,
+        "E_diam_detected": 59.44081391583688,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.83908537164292
+      },
+      {
+        "d": 1050.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.016109717402428,
+        "E_diam_geom": 55.48483373666688,
+        "E_diam_detected": 58.70197128104086,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.81773936803903
+      },
+      {
+        "d": 1050.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.028244223530187,
+        "E_diam_geom": 56.16221633144954,
+        "E_diam_detected": 59.60050078047716,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.65726221345342
+      },
+      {
+        "d": 1050.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0436111456034345,
+        "E_diam_geom": 57.03192196819271,
+        "E_diam_detected": 60.54285060068848,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.73350788449966
+      },
+      {
+        "d": 1050.0,
+        "alpha": 45.0,
+        "p_detect": 0.9912094011199946,
+        "E_log_diam": 4.105352688143746,
+        "E_diam_geom": 60.66413629669858,
+        "E_diam_detected": 62.709246135660706,
+        "E_mec_detected": null,
+        "P90_diam_detected": 98.31047977125583
+      },
+      {
+        "d": 1050.0,
+        "alpha": 50.0,
+        "p_detect": 0.956180714839399,
+        "E_log_diam": 4.236962950347038,
+        "E_diam_geom": 69.1973765201916,
+        "E_diam_detected": 64.02170965179619,
+        "E_mec_detected": null,
+        "P90_diam_detected": 100.12918841210873
+      },
+      {
+        "d": 1050.0,
+        "alpha": 55.0,
+        "p_detect": 0.8965039731572904,
+        "E_log_diam": 4.5799830576769365,
+        "E_diam_geom": 97.5127421006793,
+        "E_diam_detected": 63.22229848272977,
+        "E_mec_detected": null,
+        "P90_diam_detected": 98.69742375329596
+      },
+      {
+        "d": 1050.0,
+        "alpha": 60.0,
+        "p_detect": 0.810708447444294,
+        "E_log_diam": 4.828724175128423,
+        "E_diam_geom": 125.05131525840642,
+        "E_diam_detected": 65.6659643606029,
+        "E_mec_detected": null,
+        "P90_diam_detected": 107.86810957069166
+      },
+      {
+        "d": 1100.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.036736806844772,
+        "E_diam_geom": 418.52507598025886,
+        "E_diam_detected": 578.6459158508169,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1100.0
+      },
+      {
+        "d": 1100.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.7466927843925095,
+        "E_diam_geom": 115.20265379282523,
+        "E_diam_detected": 139.77623821103953,
+        "E_mec_detected": null,
+        "P90_diam_detected": 275.65894807560846
+      },
+      {
+        "d": 1100.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.325542872053271,
+        "E_diam_geom": 75.60654640182311,
+        "E_diam_detected": 84.29351926233106,
+        "E_mec_detected": null,
+        "P90_diam_detected": 135.1018874751113
+      },
+      {
+        "d": 1100.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.1516618421846685,
+        "E_diam_geom": 63.53950523775946,
+        "E_diam_detected": 68.00496979284043,
+        "E_mec_detected": null,
+        "P90_diam_detected": 106.41191611454497
+      },
+      {
+        "d": 1100.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0615135769942565,
+        "E_diam_geom": 58.06212610310169,
+        "E_diam_detected": 61.02596665084393,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.85251419837728
+      },
+      {
+        "d": 1100.0,
+        "alpha": 25.0,
+        "p_detect": 0.9999768899960975,
+        "E_log_diam": 4.019626565326454,
+        "E_diam_geom": 55.680308985897454,
+        "E_diam_detected": 58.14489768752355,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.87415213991778
+      },
+      {
+        "d": 1100.0,
+        "alpha": 30.0,
+        "p_detect": 0.9999273458508872,
+        "E_log_diam": 4.006062901803496,
+        "E_diam_geom": 54.93017876717264,
+        "E_diam_detected": 57.3779670170179,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.43215723157557
+      },
+      {
+        "d": 1100.0,
+        "alpha": 35.0,
+        "p_detect": 0.9998702482756778,
+        "E_log_diam": 4.013110684753355,
+        "E_diam_geom": 55.31868218026666,
+        "E_diam_detected": 57.963947116700346,
+        "E_mec_detected": null,
+        "P90_diam_detected": 88.21176551891767
+      },
+      {
+        "d": 1100.0,
+        "alpha": 40.0,
+        "p_detect": 0.9998061547774509,
+        "E_log_diam": 4.033381975734983,
+        "E_diam_geom": 56.45150639621326,
+        "E_diam_detected": 59.337783333063754,
+        "E_mec_detected": null,
+        "P90_diam_detected": 89.47161365117442
+      },
+      {
+        "d": 1100.0,
+        "alpha": 45.0,
+        "p_detect": 0.9903057909816545,
+        "E_log_diam": 4.097809981810903,
+        "E_diam_geom": 60.20828586584355,
+        "E_diam_detected": 61.61087286286319,
+        "E_mec_detected": null,
+        "P90_diam_detected": 94.13995022086462
+      },
+      {
+        "d": 1100.0,
+        "alpha": 50.0,
+        "p_detect": 0.9511879619340649,
+        "E_log_diam": 4.287897755379858,
+        "E_diam_geom": 72.81323625604186,
+        "E_diam_detected": 62.50576033705195,
+        "E_mec_detected": null,
+        "P90_diam_detected": 96.31028603719474
+      },
+      {
+        "d": 1100.0,
+        "alpha": 55.0,
+        "p_detect": 0.8838539895799873,
+        "E_log_diam": 4.4437359877616665,
+        "E_diam_geom": 85.09225218343322,
+        "E_diam_detected": 64.7371012182681,
+        "E_mec_detected": null,
+        "P90_diam_detected": 100.3992986964699
+      },
+      {
+        "d": 1100.0,
+        "alpha": 60.0,
+        "p_detect": 0.7830198860419173,
+        "E_log_diam": 4.845286165590877,
+        "E_diam_geom": 127.13965978431875,
+        "E_diam_detected": 65.11681187064245,
+        "E_mec_detected": null,
+        "P90_diam_detected": 100.98942183329768
+      },
+      {
+        "d": 1150.0,
+        "alpha": 0.0,
+        "p_detect": 0.9995968189520148,
+        "E_log_diam": 6.080483558763101,
+        "E_diam_geom": 437.24057511853186,
+        "E_diam_detected": 615.9898780847682,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1150.0
+      },
+      {
+        "d": 1150.0,
+        "alpha": 5.0,
+        "p_detect": 0.9995908709742727,
+        "E_log_diam": 4.7419746208354265,
+        "E_diam_geom": 114.66038908276622,
+        "E_diam_detected": 138.24100670492177,
+        "E_mec_detected": null,
+        "P90_diam_detected": 282.13058979089175
+      },
+      {
+        "d": 1150.0,
+        "alpha": 10.0,
+        "p_detect": 0.9995757585802686,
+        "E_log_diam": 4.333265226954056,
+        "E_diam_geom": 76.1926671895678,
+        "E_diam_detected": 84.69408298324022,
+        "E_mec_detected": null,
+        "P90_diam_detected": 147.12473094650625
+      },
+      {
+        "d": 1150.0,
+        "alpha": 15.0,
+        "p_detect": 0.9995516362005111,
+        "E_log_diam": 4.155659345419833,
+        "E_diam_geom": 63.79401297433827,
+        "E_diam_detected": 67.77661438687511,
+        "E_mec_detected": null,
+        "P90_diam_detected": 101.19414020563886
+      },
+      {
+        "d": 1150.0,
+        "alpha": 20.0,
+        "p_detect": 0.9995187488395894,
+        "E_log_diam": 4.063684296216414,
+        "E_diam_geom": 58.18829957035405,
+        "E_diam_detected": 60.595004656505786,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.87295638432713
+      },
+      {
+        "d": 1150.0,
+        "alpha": 25.0,
+        "p_detect": 0.9994774275934559,
+        "E_log_diam": 4.021481143917933,
+        "E_diam_geom": 55.78366830927881,
+        "E_diam_detected": 57.6580914523662,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.53179917953553
+      },
+      {
+        "d": 1150.0,
+        "alpha": 30.0,
+        "p_detect": 0.9994280837450447,
+        "E_log_diam": 4.005398091112857,
+        "E_diam_geom": 54.893672733234915,
+        "E_diam_detected": 56.77149647453273,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.98657557936612
+      },
+      {
+        "d": 1150.0,
+        "alpha": 35.0,
+        "p_detect": 0.999371201672341,
+        "E_log_diam": 4.0077164210602305,
+        "E_diam_geom": 55.02108200995952,
+        "E_diam_detected": 57.012216303476215,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.60626917021054
+      },
+      {
+        "d": 1150.0,
+        "alpha": 40.0,
+        "p_detect": 0.9993073308346471,
+        "E_log_diam": 4.0292925764782055,
+        "E_diam_geom": 56.22112502966631,
+        "E_diam_detected": 58.57321721545446,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.90431595256761
+      },
+      {
+        "d": 1150.0,
+        "alpha": 45.0,
+        "p_detect": 0.9882386573558128,
+        "E_log_diam": 4.086984291645364,
+        "E_diam_geom": 59.56000499288855,
+        "E_diam_detected": 60.30054517446172,
+        "E_mec_detected": null,
+        "P90_diam_detected": 90.19247736478938
+      },
+      {
+        "d": 1150.0,
+        "alpha": 50.0,
+        "p_detect": 0.9427818035920802,
+        "E_log_diam": 4.339022080914885,
+        "E_diam_geom": 76.6325622383482,
+        "E_diam_detected": 60.9606958097728,
+        "E_mec_detected": null,
+        "P90_diam_detected": 91.72933387420672
+      },
+      {
+        "d": 1150.0,
+        "alpha": 55.0,
+        "p_detect": 0.8635876041951903,
+        "E_log_diam": 4.543492588664867,
+        "E_diam_geom": 94.01859564022475,
+        "E_diam_detected": 63.18323799924229,
+        "E_mec_detected": null,
+        "P90_diam_detected": 95.63659113655747
+      },
+      {
+        "d": 1150.0,
+        "alpha": 60.0,
+        "p_detect": 0.7420896311821165,
+        "E_log_diam": 4.956082160312653,
+        "E_diam_geom": 142.03622920590558,
+        "E_diam_detected": 63.032438882299374,
+        "E_mec_detected": null,
+        "P90_diam_detected": 94.37196433132786
+      },
+      {
+        "d": 1200.0,
+        "alpha": 0.0,
+        "p_detect": 0.9990968193757501,
+        "E_log_diam": 6.060790170825946,
+        "E_diam_geom": 428.7140603996475,
+        "E_diam_detected": 636.61481100295,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1200.0
+      },
+      {
+        "d": 1200.0,
+        "alpha": 5.0,
+        "p_detect": 0.999090897328088,
+        "E_log_diam": 4.762175271959198,
+        "E_diam_geom": 117.00015644799333,
+        "E_diam_detected": 143.21254839851804,
+        "E_mec_detected": null,
+        "P90_diam_detected": 305.6315601217081
+      },
+      {
+        "d": 1200.0,
+        "alpha": 10.0,
+        "p_detect": 0.9990758500561373,
+        "E_log_diam": 4.34440685598708,
+        "E_diam_geom": 77.04632435739997,
+        "E_diam_detected": 85.5858029130412,
+        "E_mec_detected": null,
+        "P90_diam_detected": 154.689050118955
+      },
+      {
+        "d": 1200.0,
+        "alpha": 15.0,
+        "p_detect": 0.9990518293731051,
+        "E_log_diam": 4.165953485982344,
+        "E_diam_geom": 64.45410924368048,
+        "E_diam_detected": 68.26250743553985,
+        "E_mec_detected": null,
+        "P90_diam_detected": 106.64693866576465
+      },
+      {
+        "d": 1200.0,
+        "alpha": 20.0,
+        "p_detect": 0.9989771120918669,
+        "E_log_diam": 4.071672486341403,
+        "E_diam_geom": 58.654980255775385,
+        "E_diam_detected": 60.766409741752504,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.65494429993934
+      },
+      {
+        "d": 1200.0,
+        "alpha": 25.0,
+        "p_detect": 0.9988208742186925,
+        "E_log_diam": 4.029910185553385,
+        "E_diam_geom": 56.25585843142945,
+        "E_diam_detected": 57.38334199927998,
+        "E_mec_detected": null,
+        "P90_diam_detected": 78.81884719376166
+      },
+      {
+        "d": 1200.0,
+        "alpha": 30.0,
+        "p_detect": 0.9984767085564574,
+        "E_log_diam": 4.008654843643237,
+        "E_diam_geom": 55.07273927023799,
+        "E_diam_detected": 56.47422682962568,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.33888891196311
+      },
+      {
+        "d": 1200.0,
+        "alpha": 35.0,
+        "p_detect": 0.9978869060656186,
+        "E_log_diam": 4.009179378501992,
+        "E_diam_geom": 55.101634419346325,
+        "E_diam_detected": 56.648179551577165,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.83919954586158
+      },
+      {
+        "d": 1200.0,
+        "alpha": 40.0,
+        "p_detect": 0.9970378392940918,
+        "E_log_diam": 4.026434246551329,
+        "E_diam_geom": 56.060655951508906,
+        "E_diam_detected": 57.887214733664386,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.65400398522402
+      },
+      {
+        "d": 1200.0,
+        "alpha": 45.0,
+        "p_detect": 0.9827712009206487,
+        "E_log_diam": 4.087893786034388,
+        "E_diam_geom": 59.61419912413328,
+        "E_diam_detected": 59.89126922379872,
+        "E_mec_detected": null,
+        "P90_diam_detected": 85.37991999088928
+      },
+      {
+        "d": 1200.0,
+        "alpha": 50.0,
+        "p_detect": 0.9289610858798821,
+        "E_log_diam": 4.271269778099218,
+        "E_diam_geom": 71.61250990863002,
+        "E_diam_detected": 61.5100277078876,
+        "E_mec_detected": null,
+        "P90_diam_detected": 90.34418533456251
+      },
+      {
+        "d": 1200.0,
+        "alpha": 55.0,
+        "p_detect": 0.8293396133163935,
+        "E_log_diam": 4.646369965230872,
+        "E_diam_geom": 104.20602667626677,
+        "E_diam_detected": 62.03161315820622,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.46865954438552
+      },
+      {
+        "d": 1200.0,
+        "alpha": 60.0,
+        "p_detect": 0.6817957531624562,
+        "E_log_diam": 5.119091679246853,
+        "E_diam_geom": 167.1834444409841,
+        "E_diam_detected": 64.43703166401687,
+        "E_mec_detected": null,
+        "P90_diam_detected": 98.34388259077795
+      },
+      {
+        "d": 1250.0,
+        "alpha": 0.0,
+        "p_detect": 0.9976330687085775,
+        "E_log_diam": 6.1058676306073085,
+        "E_diam_geom": 448.48158905303876,
+        "E_diam_detected": 680.3207440577163,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1250.0
+      },
+      {
+        "d": 1250.0,
+        "alpha": 5.0,
+        "p_detect": 0.997580951914777,
+        "E_log_diam": 4.794088354510553,
+        "E_diam_geom": 120.79421007514799,
+        "E_diam_detected": 149.05299249090615,
+        "E_mec_detected": null,
+        "P90_diam_detected": 316.95676341408694
+      },
+      {
+        "d": 1250.0,
+        "alpha": 10.0,
+        "p_detect": 0.9974364398092983,
+        "E_log_diam": 4.370602651958416,
+        "E_diam_geom": 79.09128185579632,
+        "E_diam_detected": 87.65815319863324,
+        "E_mec_detected": null,
+        "P90_diam_detected": 163.58120734398335
+      },
+      {
+        "d": 1250.0,
+        "alpha": 15.0,
+        "p_detect": 0.9971436864482777,
+        "E_log_diam": 4.192963460118496,
+        "E_diam_geom": 66.21873706416338,
+        "E_diam_detected": 69.69585883082335,
+        "E_mec_detected": null,
+        "P90_diam_detected": 108.70636617282355
+      },
+      {
+        "d": 1250.0,
+        "alpha": 20.0,
+        "p_detect": 0.9967353411178747,
+        "E_log_diam": 4.090059249793117,
+        "E_diam_geom": 59.743431385231155,
+        "E_diam_detected": 61.75071881099709,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.48305658572868
+      },
+      {
+        "d": 1250.0,
+        "alpha": 25.0,
+        "p_detect": 0.9961444805129617,
+        "E_log_diam": 4.047009896580033,
+        "E_diam_geom": 57.226089044539414,
+        "E_diam_detected": 58.073321814014136,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.41306064521193
+      },
+      {
+        "d": 1250.0,
+        "alpha": 30.0,
+        "p_detect": 0.9953931565114388,
+        "E_log_diam": 4.025202014993733,
+        "E_diam_geom": 55.99161878572855,
+        "E_diam_detected": 56.653604994099354,
+        "E_mec_detected": null,
+        "P90_diam_detected": 76.28463958674563
+      },
+      {
+        "d": 1250.0,
+        "alpha": 35.0,
+        "p_detect": 0.9942169665107699,
+        "E_log_diam": 4.014805104148667,
+        "E_diam_geom": 55.41249468469447,
+        "E_diam_detected": 56.61150040367247,
+        "E_mec_detected": null,
+        "P90_diam_detected": 78.63352400042564
+      },
+      {
+        "d": 1250.0,
+        "alpha": 40.0,
+        "p_detect": 0.9924108835925015,
+        "E_log_diam": 4.049301385463909,
+        "E_diam_geom": 57.35737235112495,
+        "E_diam_detected": 57.81131821889019,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.7726051223422
+      },
+      {
+        "d": 1250.0,
+        "alpha": 45.0,
+        "p_detect": 0.9729237670314957,
+        "E_log_diam": 4.1772216025683955,
+        "E_diam_geom": 65.18449295742843,
+        "E_diam_detected": 58.9245339733809,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.20958094797403
+      },
+      {
+        "d": 1250.0,
+        "alpha": 50.0,
+        "p_detect": 0.9059099520159886,
+        "E_log_diam": 4.411908797048177,
+        "E_diam_geom": 82.42664918334822,
+        "E_diam_detected": 59.52295557511564,
+        "E_mec_detected": null,
+        "P90_diam_detected": 85.61781583103355
+      },
+      {
+        "d": 1250.0,
+        "alpha": 55.0,
+        "p_detect": 0.7726785191978692,
+        "E_log_diam": 4.807176231447238,
+        "E_diam_geom": 122.38554068568577,
+        "E_diam_detected": 63.04187176665411,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.86789654209704
+      },
+      {
+        "d": 1250.0,
+        "alpha": 60.0,
+        "p_detect": 0.6179308051333414,
+        "E_log_diam": 5.384027402166677,
+        "E_diam_geom": 217.89807381960242,
+        "E_diam_detected": 63.309484013806454,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.65148707407252
+      },
+      {
+        "d": 1300.0,
+        "alpha": 0.0,
+        "p_detect": 0.9944525514536363,
+        "E_log_diam": 6.16313182151375,
+        "E_diam_geom": 474.91309125421,
+        "E_diam_detected": 725.0322257591429,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1300.0
+      },
+      {
+        "d": 1300.0,
+        "alpha": 5.0,
+        "p_detect": 0.9943614051262186,
+        "E_log_diam": 4.842492171049284,
+        "E_diam_geom": 126.78492805887866,
+        "E_diam_detected": 159.54325538713388,
+        "E_mec_detected": null,
+        "P90_diam_detected": 356.09664223936966
+      },
+      {
+        "d": 1300.0,
+        "alpha": 10.0,
+        "p_detect": 0.9940944868980314,
+        "E_log_diam": 4.410342934618215,
+        "E_diam_geom": 82.29768138942752,
+        "E_diam_detected": 92.47847212463114,
+        "E_mec_detected": null,
+        "P90_diam_detected": 179.765800857246
+      },
+      {
+        "d": 1300.0,
+        "alpha": 15.0,
+        "p_detect": 0.9936188059450735,
+        "E_log_diam": 4.2242103552398875,
+        "E_diam_geom": 68.3205332915754,
+        "E_diam_detected": 72.04540948418988,
+        "E_mec_detected": null,
+        "P90_diam_detected": 119.73516965621323
+      },
+      {
+        "d": 1300.0,
+        "alpha": 20.0,
+        "p_detect": 0.9929118993633449,
+        "E_log_diam": 4.119721004772897,
+        "E_diam_geom": 61.54206992526438,
+        "E_diam_detected": 63.06968954810107,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.03650759802146
+      },
+      {
+        "d": 1300.0,
+        "alpha": 25.0,
+        "p_detect": 0.9918521825193125,
+        "E_log_diam": 4.064933561915171,
+        "E_diam_geom": 58.26103764220538,
+        "E_diam_detected": 58.904565108819,
+        "E_mec_detected": null,
+        "P90_diam_detected": 76.30965153790468
+      },
+      {
+        "d": 1300.0,
+        "alpha": 30.0,
+        "p_detect": 0.9902945563767167,
+        "E_log_diam": 4.039256860431531,
+        "E_diam_geom": 56.78412858906895,
+        "E_diam_detected": 57.142815521048995,
+        "E_mec_detected": null,
+        "P90_diam_detected": 72.52060266573265
+      },
+      {
+        "d": 1300.0,
+        "alpha": 35.0,
+        "p_detect": 0.9881513692505786,
+        "E_log_diam": 4.043790985459441,
+        "E_diam_geom": 57.04217950315638,
+        "E_diam_detected": 56.87055759850332,
+        "E_mec_detected": null,
+        "P90_diam_detected": 74.82340291082302
+      },
+      {
+        "d": 1300.0,
+        "alpha": 40.0,
+        "p_detect": 0.9839972933841656,
+        "E_log_diam": 4.074612032520585,
+        "E_diam_geom": 58.827652944209255,
+        "E_diam_detected": 57.62513972769301,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.59335637815812
+      },
+      {
+        "d": 1300.0,
+        "alpha": 45.0,
+        "p_detect": 0.9564510086030161,
+        "E_log_diam": 4.2274941274474465,
+        "E_diam_geom": 68.5452511191516,
+        "E_diam_detected": 58.656522567715086,
+        "E_mec_detected": null,
+        "P90_diam_detected": 80.28638605216301
+      },
+      {
+        "d": 1300.0,
+        "alpha": 50.0,
+        "p_detect": 0.8662086428108335,
+        "E_log_diam": 4.512471647306472,
+        "E_diam_geom": 91.14682312983443,
+        "E_diam_detected": 60.67670273681811,
+        "E_mec_detected": null,
+        "P90_diam_detected": 84.20151890728586
+      },
+      {
+        "d": 1300.0,
+        "alpha": 55.0,
+        "p_detect": 0.7087283262643088,
+        "E_log_diam": 5.112876849280427,
+        "E_diam_geom": 166.14764973844564,
+        "E_diam_detected": 61.19073788044182,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.34080050073683
+      },
+      {
+        "d": 1300.0,
+        "alpha": 60.0,
+        "p_detect": 0.5518515697316382,
+        "E_log_diam": 5.600305734185691,
+        "E_diam_geom": 270.5090986637415,
+        "E_diam_detected": 62.004412340112516,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.46268924700298
+      },
+      {
+        "d": 1350.0,
+        "alpha": 0.0,
+        "p_detect": 0.9896160496969313,
+        "E_log_diam": 6.209548809773948,
+        "E_diam_geom": 497.47674399828844,
+        "E_diam_detected": 781.1793471173094,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1350.0
+      },
+      {
+        "d": 1350.0,
+        "alpha": 5.0,
+        "p_detect": 0.9894573040964083,
+        "E_log_diam": 4.897110720520074,
+        "E_diam_geom": 133.9023389619209,
+        "E_diam_detected": 169.68862095876867,
+        "E_mec_detected": null,
+        "P90_diam_detected": 363.8110128318622
+      },
+      {
+        "d": 1350.0,
+        "alpha": 10.0,
+        "p_detect": 0.9889971120424847,
+        "E_log_diam": 4.464774435842917,
+        "E_diam_geom": 86.90142548206093,
+        "E_diam_detected": 96.63549176536687,
+        "E_mec_detected": null,
+        "P90_diam_detected": 183.2750819032333
+      },
+      {
+        "d": 1350.0,
+        "alpha": 15.0,
+        "p_detect": 0.9882424255907192,
+        "E_log_diam": 4.257088440493041,
+        "E_diam_geom": 70.60411581713207,
+        "E_diam_detected": 75.34703019165927,
+        "E_mec_detected": null,
+        "P90_diam_detected": 125.5386494171671
+      },
+      {
+        "d": 1350.0,
+        "alpha": 20.0,
+        "p_detect": 0.9871380208649021,
+        "E_log_diam": 4.144115603295464,
+        "E_diam_geom": 63.061825561623415,
+        "E_diam_detected": 65.31703843320733,
+        "E_mec_detected": null,
+        "P90_diam_detected": 97.03143695919135
+      },
+      {
+        "d": 1350.0,
+        "alpha": 25.0,
+        "p_detect": 0.9853468877411032,
+        "E_log_diam": 4.110666081068226,
+        "E_diam_geom": 60.98732654730008,
+        "E_diam_detected": 59.79659484889883,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.97160296660445
+      },
+      {
+        "d": 1350.0,
+        "alpha": 30.0,
+        "p_detect": 0.9820788174621713,
+        "E_log_diam": 4.081555287104189,
+        "E_diam_geom": 59.23752960753085,
+        "E_diam_detected": 57.64306586543427,
+        "E_mec_detected": null,
+        "P90_diam_detected": 71.37284563207277
+      },
+      {
+        "d": 1350.0,
+        "alpha": 35.0,
+        "p_detect": 0.9778993451296142,
+        "E_log_diam": 4.075613873168627,
+        "E_diam_geom": 58.88661841022614,
+        "E_diam_detected": 57.14298655548936,
+        "E_mec_detected": null,
+        "P90_diam_detected": 71.7999518931175
+      },
+      {
+        "d": 1350.0,
+        "alpha": 40.0,
+        "p_detect": 0.972198512397965,
+        "E_log_diam": 4.125769122534111,
+        "E_diam_geom": 61.91541148022566,
+        "E_diam_detected": 57.977900711081766,
+        "E_mec_detected": null,
+        "P90_diam_detected": 76.50682435792429
+      },
+      {
+        "d": 1350.0,
+        "alpha": 45.0,
+        "p_detect": 0.9316642799513235,
+        "E_log_diam": 4.257554528840781,
+        "E_diam_geom": 70.63703124296927,
+        "E_diam_detected": 59.32185667915345,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.51754790949737
+      },
+      {
+        "d": 1350.0,
+        "alpha": 50.0,
+        "p_detect": 0.8033156114541362,
+        "E_log_diam": 4.773322111170597,
+        "E_diam_geom": 118.31163421608014,
+        "E_diam_detected": 60.64672583731799,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.95083818395429
+      },
+      {
+        "d": 1350.0,
+        "alpha": 55.0,
+        "p_detect": 0.642477699338674,
+        "E_log_diam": 5.12464978216337,
+        "E_diam_geom": 168.11525438006743,
+        "E_diam_detected": 62.00427736649733,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.8670714087857
+      },
+      {
+        "d": 1350.0,
+        "alpha": 60.0,
+        "p_detect": 0.48371220890946126,
+        "E_log_diam": 5.84840969586354,
+        "E_diam_geom": 346.68261106401803,
+        "E_diam_detected": 62.69596765667118,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.50310426609978
+      },
+      {
+        "d": 1400.0,
+        "alpha": 0.0,
+        "p_detect": 0.9830432448276923,
+        "E_log_diam": 6.35925682328538,
+        "E_diam_geom": 577.8167768128832,
+        "E_diam_detected": 868.035250379116,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1400.0
+      },
+      {
+        "d": 1400.0,
+        "alpha": 5.0,
+        "p_detect": 0.9827877220035006,
+        "E_log_diam": 4.968048190722967,
+        "E_diam_geom": 143.74604851710293,
+        "E_diam_detected": 176.83825491337703,
+        "E_mec_detected": null,
+        "P90_diam_detected": 366.9633329864994
+      },
+      {
+        "d": 1400.0,
+        "alpha": 10.0,
+        "p_detect": 0.9819441996176657,
+        "E_log_diam": 4.528033791991574,
+        "E_diam_geom": 92.57635764009495,
+        "E_diam_detected": 101.47348292366206,
+        "E_mec_detected": null,
+        "P90_diam_detected": 186.36948506942656
+      },
+      {
+        "d": 1400.0,
+        "alpha": 15.0,
+        "p_detect": 0.9803483050442549,
+        "E_log_diam": 4.336191162476686,
+        "E_diam_geom": 76.41592848586032,
+        "E_diam_detected": 76.51542587462028,
+        "E_mec_detected": null,
+        "P90_diam_detected": 122.26883248611986
+      },
+      {
+        "d": 1400.0,
+        "alpha": 20.0,
+        "p_detect": 0.9780417914379747,
+        "E_log_diam": 4.20542396578913,
+        "E_diam_geom": 67.04901813110895,
+        "E_diam_detected": 66.82165587429462,
+        "E_mec_detected": null,
+        "P90_diam_detected": 98.61038423198764
+      },
+      {
+        "d": 1400.0,
+        "alpha": 25.0,
+        "p_detect": 0.9750580126586513,
+        "E_log_diam": 4.155175108292514,
+        "E_diam_geom": 63.76312902293688,
+        "E_diam_detected": 61.13913042135065,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.17590862668932
+      },
+      {
+        "d": 1400.0,
+        "alpha": 30.0,
+        "p_detect": 0.9708548457769771,
+        "E_log_diam": 4.151194950101477,
+        "E_diam_geom": 63.509846070148086,
+        "E_diam_detected": 58.33732726441542,
+        "E_mec_detected": null,
+        "P90_diam_detected": 69.02408569725951
+      },
+      {
+        "d": 1400.0,
+        "alpha": 35.0,
+        "p_detect": 0.9652351792134507,
+        "E_log_diam": 4.127338443226449,
+        "E_diam_geom": 62.012652898163964,
+        "E_diam_detected": 57.87345791144824,
+        "E_mec_detected": null,
+        "P90_diam_detected": 70.77231977271879
+      },
+      {
+        "d": 1400.0,
+        "alpha": 40.0,
+        "p_detect": 0.9547795658408598,
+        "E_log_diam": 4.232087005937298,
+        "E_diam_geom": 68.86079520172521,
+        "E_diam_detected": 58.31023225186191,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.68181002240662
+      },
+      {
+        "d": 1400.0,
+        "alpha": 45.0,
+        "p_detect": 0.8942356298827632,
+        "E_log_diam": 4.4737089448461,
+        "E_diam_geom": 87.68132587598059,
+        "E_diam_detected": 59.513538789677455,
+        "E_mec_detected": null,
+        "P90_diam_detected": 80.46789961862804
+      },
+      {
+        "d": 1400.0,
+        "alpha": 50.0,
+        "p_detect": 0.7364725074758985,
+        "E_log_diam": 4.920347046948241,
+        "E_diam_geom": 137.05016777663684,
+        "E_diam_detected": 60.45962788594153,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.35560233407146
+      },
+      {
+        "d": 1400.0,
+        "alpha": 55.0,
+        "p_detect": 0.5740911658499134,
+        "E_log_diam": 5.411280236015825,
+        "E_diam_geom": 223.91807223816602,
+        "E_diam_detected": 63.308201930916205,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.04801816876225
+      },
+      {
+        "d": 1400.0,
+        "alpha": 60.0,
+        "p_detect": 0.41365711267083427,
+        "E_log_diam": 5.862204515344988,
+        "E_diam_geom": 351.4981736438802,
+        "E_diam_detected": 62.05510524858884,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.84548047259827
+      },
+      {
+        "d": 1450.0,
+        "alpha": 0.0,
+        "p_detect": 0.9728939930127684,
+        "E_log_diam": 6.396152364433065,
+        "E_diam_geom": 599.5338067374862,
+        "E_diam_detected": 929.3909540078354,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1450.0
+      },
+      {
+        "d": 1450.0,
+        "alpha": 5.0,
+        "p_detect": 0.9725516075561282,
+        "E_log_diam": 5.059403056378364,
+        "E_diam_geom": 157.49647174226644,
+        "E_diam_detected": 190.24997003552494,
+        "E_mec_detected": null,
+        "P90_diam_detected": 375.0286314337014
+      },
+      {
+        "d": 1450.0,
+        "alpha": 10.0,
+        "p_detect": 0.9714970944781074,
+        "E_log_diam": 4.602403000890557,
+        "E_diam_geom": 99.72366400300552,
+        "E_diam_detected": 106.25517547902466,
+        "E_mec_detected": null,
+        "P90_diam_detected": 194.38845108320956
+      },
+      {
+        "d": 1450.0,
+        "alpha": 15.0,
+        "p_detect": 0.9695202001201771,
+        "E_log_diam": 4.378673517354176,
+        "E_diam_geom": 79.73219984800274,
+        "E_diam_detected": 81.519114155489,
+        "E_mec_detected": null,
+        "P90_diam_detected": 133.87030571660122
+      },
+      {
+        "d": 1450.0,
+        "alpha": 20.0,
+        "p_detect": 0.9667037016089356,
+        "E_log_diam": 4.268208943898241,
+        "E_diam_geom": 71.39365100536071,
+        "E_diam_detected": 69.0410122805268,
+        "E_mec_detected": null,
+        "P90_diam_detected": 100.46137858828786
+      },
+      {
+        "d": 1450.0,
+        "alpha": 25.0,
+        "p_detect": 0.9629615210720814,
+        "E_log_diam": 4.181160107382459,
+        "E_diam_geom": 65.44172862618737,
+        "E_diam_detected": 63.280965840678824,
+        "E_mec_detected": null,
+        "P90_diam_detected": 84.83855362457643
+      },
+      {
+        "d": 1450.0,
+        "alpha": 30.0,
+        "p_detect": 0.957130232650656,
+        "E_log_diam": 4.142076573906731,
+        "E_diam_geom": 62.93337165115087,
+        "E_diam_detected": 60.15163632514297,
+        "E_mec_detected": null,
+        "P90_diam_detected": 73.3652104708263
+      },
+      {
+        "d": 1450.0,
+        "alpha": 35.0,
+        "p_detect": 0.9473575688168681,
+        "E_log_diam": 4.183467732692123,
+        "E_diam_geom": 65.59291799258561,
+        "E_diam_detected": 58.720839693751984,
+        "E_mec_detected": null,
+        "P90_diam_detected": 70.04895180587395
+      },
+      {
+        "d": 1450.0,
+        "alpha": 40.0,
+        "p_detect": 0.9318777498444776,
+        "E_log_diam": 4.260918340312743,
+        "E_diam_geom": 70.87504098453142,
+        "E_diam_detected": 58.88726165517888,
+        "E_mec_detected": null,
+        "P90_diam_detected": 72.82654012053146
+      },
+      {
+        "d": 1450.0,
+        "alpha": 45.0,
+        "p_detect": 0.8321357156211271,
+        "E_log_diam": 4.672446703815597,
+        "E_diam_geom": 106.95911983212484,
+        "E_diam_detected": 59.60156709816428,
+        "E_mec_detected": null,
+        "P90_diam_detected": 74.46560908177385
+      },
+      {
+        "d": 1450.0,
+        "alpha": 50.0,
+        "p_detect": 0.6674236245500879,
+        "E_log_diam": 5.289025002915002,
+        "E_diam_geom": 198.15013539169254,
+        "E_diam_detected": 61.80256789439609,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.37392314845454
+      },
+      {
+        "d": 1450.0,
+        "alpha": 55.0,
+        "p_detect": 0.5037228905741393,
+        "E_log_diam": 5.908216709286132,
+        "E_diam_geom": 368.04923106390396,
+        "E_diam_detected": 63.90663592137246,
+        "E_mec_detected": null,
+        "P90_diam_detected": 85.44146462416818
+      },
+      {
+        "d": 1450.0,
+        "alpha": 60.0,
+        "p_detect": 0.34182115248602046,
+        "E_log_diam": 6.082829059363473,
+        "E_diam_geom": 438.2673268026131,
+        "E_diam_detected": 64.03678728972278,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.83266184425783
+      },
+      {
+        "d": 1500.0,
+        "alpha": 0.0,
+        "p_detect": 0.9611141493676634,
+        "E_log_diam": 6.60830348873735,
+        "E_diam_geom": 741.2244557979883,
+        "E_diam_detected": 1015.6607762683536,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1500.0
+      },
+      {
+        "d": 1500.0,
+        "alpha": 5.0,
+        "p_detect": 0.9606767730513525,
+        "E_log_diam": 5.163824324960908,
+        "E_diam_geom": 174.8317923228758,
+        "E_diam_detected": 206.7620979068926,
+        "E_mec_detected": null,
+        "P90_diam_detected": 397.4926425512416
+      },
+      {
+        "d": 1500.0,
+        "alpha": 10.0,
+        "p_detect": 0.9593740027140502,
+        "E_log_diam": 4.68775797712216,
+        "E_diam_geom": 108.60940186793665,
+        "E_diam_detected": 112.22218597198827,
+        "E_mec_detected": null,
+        "P90_diam_detected": 195.0403652775757
+      },
+      {
+        "d": 1500.0,
+        "alpha": 15.0,
+        "p_detect": 0.9572289850958131,
+        "E_log_diam": 4.452939359605988,
+        "E_diam_geom": 85.87900264660499,
+        "E_diam_detected": 84.00996488816466,
+        "E_mec_detected": null,
+        "P90_diam_detected": 133.26567200136984
+      },
+      {
+        "d": 1500.0,
+        "alpha": 20.0,
+        "p_detect": 0.9534606317004638,
+        "E_log_diam": 4.327285625338664,
+        "E_diam_geom": 75.73842484137572,
+        "E_diam_detected": 71.56048117076298,
+        "E_mec_detected": null,
+        "P90_diam_detected": 104.20731518202648
+      },
+      {
+        "d": 1500.0,
+        "alpha": 25.0,
+        "p_detect": 0.9474953559324826,
+        "E_log_diam": 4.251935544101939,
+        "E_diam_geom": 70.24123586787384,
+        "E_diam_detected": 64.82233718412752,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.73287726770995
+      },
+      {
+        "d": 1500.0,
+        "alpha": 30.0,
+        "p_detect": 0.9383918974844799,
+        "E_log_diam": 4.232549842099079,
+        "E_diam_geom": 68.89267384459886,
+        "E_diam_detected": 61.15951541978176,
+        "E_mec_detected": null,
+        "P90_diam_detected": 73.8689283679267
+      },
+      {
+        "d": 1500.0,
+        "alpha": 35.0,
+        "p_detect": 0.925805352421921,
+        "E_log_diam": 4.242640357216309,
+        "E_diam_geom": 69.59135551224261,
+        "E_diam_detected": 59.51236055323678,
+        "E_mec_detected": null,
+        "P90_diam_detected": 67.95780869029957
+      },
+      {
+        "d": 1500.0,
+        "alpha": 40.0,
+        "p_detect": 0.9003023582933577,
+        "E_log_diam": 4.420737856124127,
+        "E_diam_geom": 83.15762108707641,
+        "E_diam_detected": 59.74154077616911,
+        "E_mec_detected": null,
+        "P90_diam_detected": 72.0116502114643
+      },
+      {
+        "d": 1500.0,
+        "alpha": 45.0,
+        "p_detect": 0.7619450938484471,
+        "E_log_diam": 4.898143862633604,
+        "E_diam_geom": 134.04075059453436,
+        "E_diam_detected": 60.77920084109891,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.26782986174953
+      },
+      {
+        "d": 1500.0,
+        "alpha": 50.0,
+        "p_detect": 0.5963347592772287,
+        "E_log_diam": 5.275736883843342,
+        "E_diam_geom": 195.5345096591677,
+        "E_diam_detected": 61.85094057576943,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.62391872194031
+      },
+      {
+        "d": 1500.0,
+        "alpha": 55.0,
+        "p_detect": 0.4315168513986318,
+        "E_log_diam": 5.975120238755978,
+        "E_diam_geom": 393.5154140504568,
+        "E_diam_detected": 64.17753522333744,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.20859802966652
+      },
+      {
+        "d": 1500.0,
+        "alpha": 60.0,
+        "p_detect": 0.2684856140597337,
+        "E_log_diam": 6.360941046779524,
+        "E_diam_geom": 578.7907693840515,
+        "E_diam_detected": 62.36137276723759,
+        "E_mec_detected": null,
+        "P90_diam_detected": 78.51910521747709
+      }
+    ]
+  },
+  "far": {
+    "best_seed7": {
+      "d": 1300.0,
+      "alpha": 20.0,
+      "p_detect": 1.0,
+      "E_log_diam": 3.9510591705341467,
+      "E_diam_geom": 51.99040438699446,
+      "E_diam_detected": 52.526824730177516,
+      "E_mec_detected": null,
+      "P90_diam_detected": 67.40526228027692
+    },
+    "best_seed99": {
+      "d": 1300.0,
+      "alpha": 20.0,
+      "p_detect": 1.0,
+      "E_log_diam": 3.9510591705341467,
+      "E_diam_geom": 51.99040438699446,
+      "E_diam_detected": 52.526824730177516,
+      "E_mec_detected": null,
+      "P90_diam_detected": 67.40526228027692
+    },
+    "n_near": 16,
+    "near": [
+      {
+        "d": 1200.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9828034029621606,
+        "E_diam_geom": 53.667274533434195,
+        "E_diam_detected": 55.364868822917714,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.37494291019644
+      },
+      {
+        "d": 1200.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.980447055173421,
+        "E_diam_geom": 53.54096464321822,
+        "E_diam_detected": 55.0060301380374,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.49591130482978
+      },
+      {
+        "d": 1250.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.962290322441146,
+        "E_diam_geom": 52.57760782948876,
+        "E_diam_detected": 53.562336389757455,
+        "E_mec_detected": null,
+        "P90_diam_detected": 73.4995033122569
+      },
+      {
+        "d": 1250.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.958044769257263,
+        "E_diam_geom": 52.35485997767363,
+        "E_diam_detected": 53.297764181550946,
+        "E_mec_detected": null,
+        "P90_diam_detected": 71.18852220100362
+      },
+      {
+        "d": 1250.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.985288742919694,
+        "E_diam_geom": 53.8008218417323,
+        "E_diam_detected": 54.83641109827333,
+        "E_mec_detected": null,
+        "P90_diam_detected": 72.42431104031706
+      },
+      {
+        "d": 1300.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9621469435468373,
+        "E_diam_geom": 52.57006985061922,
+        "E_diam_detected": 53.05308026856534,
+        "E_mec_detected": null,
+        "P90_diam_detected": 67.4299529679318
+      },
+      {
+        "d": 1300.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9510591705341467,
+        "E_diam_geom": 51.99040438699446,
+        "E_diam_detected": 52.526824730177516,
+        "E_mec_detected": null,
+        "P90_diam_detected": 67.40526228027692
+      },
+      {
+        "d": 1300.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.968882170885582,
+        "E_diam_geom": 52.9253362793551,
+        "E_diam_detected": 53.59649986871262,
+        "E_mec_detected": null,
+        "P90_diam_detected": 67.81442057638712
+      },
+      {
+        "d": 1350.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.979981422427638,
+        "E_diam_geom": 53.51604002015022,
+        "E_diam_detected": 53.80567038826501,
+        "E_mec_detected": null,
+        "P90_diam_detected": 62.17864376081899
+      },
+      {
+        "d": 1350.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.957017050093342,
+        "E_diam_geom": 52.301081524057295,
+        "E_diam_detected": 52.57565776918769,
+        "E_mec_detected": null,
+        "P90_diam_detected": 62.65932913718871
+      },
+      {
+        "d": 1350.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9680174275351145,
+        "E_diam_geom": 52.87958922931567,
+        "E_diam_detected": 53.308045991735426,
+        "E_mec_detected": null,
+        "P90_diam_detected": 66.46749016985687
+      },
+      {
+        "d": 1350.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9952794708473722,
+        "E_diam_geom": 54.34102523425537,
+        "E_diam_detected": 54.93378404813919,
+        "E_mec_detected": null,
+        "P90_diam_detected": 69.9976914206702
+      },
+      {
+        "d": 1400.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.979260396516983,
+        "E_diam_geom": 53.47746747623291,
+        "E_diam_detected": 53.62543808261284,
+        "E_mec_detected": null,
+        "P90_diam_detected": 60.480902480233944
+      },
+      {
+        "d": 1400.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.97396234123506,
+        "E_diam_geom": 53.19489011343224,
+        "E_diam_detected": 53.41022767551378,
+        "E_mec_detected": null,
+        "P90_diam_detected": 63.2236862078156
+      },
+      {
+        "d": 1400.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9938724805265506,
+        "E_diam_geom": 54.264621699848114,
+        "E_diam_detected": 54.63880685174565,
+        "E_mec_detected": null,
+        "P90_diam_detected": 66.72296113011801
+      },
+      {
+        "d": 1450.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9931113793328383,
+        "E_diam_geom": 54.223336544579446,
+        "E_diam_detected": 54.335055132311716,
+        "E_mec_detected": null,
+        "P90_diam_detected": 60.94175285704388
+      }
+    ],
+    "grid": [
+      {
+        "d": 600.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.795217064659887,
+        "E_diam_geom": 893.5631995439988,
+        "E_diam_detected": 894.4567511394853,
+        "E_mec_detected": null,
+        "P90_diam_detected": 900.2094056727592
+      },
+      {
+        "d": 600.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.171819090099009,
+        "E_diam_geom": 479.0567613604337,
+        "E_diam_detected": 488.9297350768957,
+        "E_mec_detected": null,
+        "P90_diam_detected": 589.1688105129497
+      },
+      {
+        "d": 600.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.733966792686726,
+        "E_diam_geom": 309.1933448426166,
+        "E_diam_detected": 319.25548682659735,
+        "E_mec_detected": null,
+        "P90_diam_detected": 413.0985847457475
+      },
+      {
+        "d": 600.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.480479008177422,
+        "E_diam_geom": 239.961623429083,
+        "E_diam_detected": 248.38224595234766,
+        "E_mec_detected": null,
+        "P90_diam_detected": 317.34396985821496
+      },
+      {
+        "d": 600.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.285830465694796,
+        "E_diam_geom": 197.51814740103103,
+        "E_diam_detected": 204.18570372297538,
+        "E_mec_detected": null,
+        "P90_diam_detected": 276.819228923394
+      },
+      {
+        "d": 600.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.170637338742474,
+        "E_diam_geom": 176.0269905613242,
+        "E_diam_detected": 181.94630965810705,
+        "E_mec_detected": null,
+        "P90_diam_detected": 241.16647884001995
+      },
+      {
+        "d": 600.0,
+        "alpha": 30.0,
+        "p_detect": 0.9987095267290593,
+        "E_log_diam": 5.079336319442391,
+        "E_diam_geom": 160.66738871391317,
+        "E_diam_detected": 166.8719641256314,
+        "E_mec_detected": null,
+        "P90_diam_detected": 219.53012035715523
+      },
+      {
+        "d": 600.0,
+        "alpha": 35.0,
+        "p_detect": 0.98927604871742,
+        "E_log_diam": 5.024152097085017,
+        "E_diam_geom": 152.04128519407374,
+        "E_diam_detected": 157.8627239946983,
+        "E_mec_detected": null,
+        "P90_diam_detected": 209.128847314794
+      },
+      {
+        "d": 600.0,
+        "alpha": 40.0,
+        "p_detect": 0.973045552738763,
+        "E_log_diam": 5.000420952154127,
+        "E_diam_geom": 148.47564709290597,
+        "E_diam_detected": 152.98664962150772,
+        "E_mec_detected": null,
+        "P90_diam_detected": 200.95787903609403
+      },
+      {
+        "d": 600.0,
+        "alpha": 45.0,
+        "p_detect": 0.9478746752938209,
+        "E_log_diam": 4.990725172322114,
+        "E_diam_geom": 147.04301636755332,
+        "E_diam_detected": 148.58746029544983,
+        "E_mec_detected": null,
+        "P90_diam_detected": 197.44261776692542
+      },
+      {
+        "d": 600.0,
+        "alpha": 50.0,
+        "p_detect": 0.912329236821102,
+        "E_log_diam": 5.019328930842932,
+        "E_diam_geom": 151.30973042323515,
+        "E_diam_detected": 148.582454621344,
+        "E_mec_detected": null,
+        "P90_diam_detected": 195.51663352374766
+      },
+      {
+        "d": 600.0,
+        "alpha": 55.0,
+        "p_detect": 0.863705216323232,
+        "E_log_diam": 5.103300122759886,
+        "E_diam_geom": 164.56409387836504,
+        "E_diam_detected": 147.18013972775398,
+        "E_mec_detected": null,
+        "P90_diam_detected": 191.4520841015047
+      },
+      {
+        "d": 600.0,
+        "alpha": 60.0,
+        "p_detect": 0.7982749052771402,
+        "E_log_diam": 5.192512001782448,
+        "E_diam_geom": 179.91994496812765,
+        "E_diam_detected": 146.91824692812736,
+        "E_mec_detected": null,
+        "P90_diam_detected": 190.13392638028685
+      },
+      {
+        "d": 650.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.736296848775135,
+        "E_diam_geom": 842.4352871526512,
+        "E_diam_detected": 844.0373382636291,
+        "E_mec_detected": null,
+        "P90_diam_detected": 850.2317971590467
+      },
+      {
+        "d": 650.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.057219742357693,
+        "E_diam_geom": 427.1860968790832,
+        "E_diam_detected": 437.9568453205469,
+        "E_mec_detected": null,
+        "P90_diam_detected": 533.4781040968555
+      },
+      {
+        "d": 650.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.604978434716311,
+        "E_diam_geom": 271.77606444318275,
+        "E_diam_detected": 281.4802049495034,
+        "E_mec_detected": null,
+        "P90_diam_detected": 368.81017664148305
+      },
+      {
+        "d": 650.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.330306649470254,
+        "E_diam_geom": 206.5012879587994,
+        "E_diam_detected": 214.26658047275893,
+        "E_mec_detected": null,
+        "P90_diam_detected": 283.48116111270656
+      },
+      {
+        "d": 650.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.1497933803687985,
+        "E_diam_geom": 172.39586626635833,
+        "E_diam_detected": 179.37339962153112,
+        "E_mec_detected": null,
+        "P90_diam_detected": 244.69790868330708
+      },
+      {
+        "d": 650.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.028271505461545,
+        "E_diam_geom": 152.66889714532198,
+        "E_diam_detected": 158.1032504428321,
+        "E_mec_detected": null,
+        "P90_diam_detected": 214.04437858845736
+      },
+      {
+        "d": 650.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.961725805943888,
+        "E_diam_geom": 142.84009759084108,
+        "E_diam_detected": 147.9347689451669,
+        "E_mec_detected": null,
+        "P90_diam_detected": 201.25709152806718
+      },
+      {
+        "d": 650.0,
+        "alpha": 35.0,
+        "p_detect": 0.996659167189373,
+        "E_log_diam": 4.914268088763233,
+        "E_diam_geom": 136.21957267172755,
+        "E_diam_detected": 140.87547322740477,
+        "E_mec_detected": null,
+        "P90_diam_detected": 190.7688443923337
+      },
+      {
+        "d": 650.0,
+        "alpha": 40.0,
+        "p_detect": 0.9825831492219638,
+        "E_log_diam": 4.88374980320808,
+        "E_diam_geom": 132.1251795603328,
+        "E_diam_detected": 137.40438213623597,
+        "E_mec_detected": null,
+        "P90_diam_detected": 182.5902999263469
+      },
+      {
+        "d": 650.0,
+        "alpha": 45.0,
+        "p_detect": 0.9584676990412878,
+        "E_log_diam": 4.891956296643244,
+        "E_diam_geom": 133.21392526097293,
+        "E_diam_detected": 136.1235050107229,
+        "E_mec_detected": null,
+        "P90_diam_detected": 177.45950217004753
+      },
+      {
+        "d": 650.0,
+        "alpha": 50.0,
+        "p_detect": 0.9220844585625579,
+        "E_log_diam": 4.9175991975682765,
+        "E_diam_geom": 136.6740914952119,
+        "E_diam_detected": 135.21821169361075,
+        "E_mec_detected": null,
+        "P90_diam_detected": 175.28298036276897
+      },
+      {
+        "d": 650.0,
+        "alpha": 55.0,
+        "p_detect": 0.871041621829736,
+        "E_log_diam": 4.992598144238691,
+        "E_diam_geom": 147.31868188403715,
+        "E_diam_detected": 135.18577153039405,
+        "E_mec_detected": null,
+        "P90_diam_detected": 174.06973548804226
+      },
+      {
+        "d": 650.0,
+        "alpha": 60.0,
+        "p_detect": 0.8001327062298755,
+        "E_log_diam": 5.1129763993327835,
+        "E_diam_geom": 166.16419056898258,
+        "E_diam_detected": 136.82298714160453,
+        "E_mec_detected": null,
+        "P90_diam_detected": 176.16611246533597
+      },
+      {
+        "d": 700.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.679877693982641,
+        "E_diam_geom": 796.2217233524996,
+        "E_diam_detected": 796.8597519463755,
+        "E_mec_detected": null,
+        "P90_diam_detected": 800.2569860606668
+      },
+      {
+        "d": 700.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.929983541403903,
+        "E_diam_geom": 376.14832290047326,
+        "E_diam_detected": 386.97278223108765,
+        "E_mec_detected": null,
+        "P90_diam_detected": 481.8997177151156
+      },
+      {
+        "d": 700.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.440055392225878,
+        "E_diam_geom": 230.45494851965933,
+        "E_diam_detected": 242.63469624857993,
+        "E_mec_detected": null,
+        "P90_diam_detected": 323.81964260311605
+      },
+      {
+        "d": 700.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.180848050430488,
+        "E_diam_geom": 177.83355888959218,
+        "E_diam_detected": 186.8428849649177,
+        "E_mec_detected": null,
+        "P90_diam_detected": 259.36630875829644
+      },
+      {
+        "d": 700.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.009914853977198,
+        "E_diam_geom": 149.891972900342,
+        "E_diam_detected": 157.04953159238943,
+        "E_mec_detected": null,
+        "P90_diam_detected": 216.20279833176087
+      },
+      {
+        "d": 700.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.9100036503721505,
+        "E_diam_geom": 135.6399095437098,
+        "E_diam_detected": 140.96130441647492,
+        "E_mec_detected": null,
+        "P90_diam_detected": 193.57041709518396
+      },
+      {
+        "d": 700.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.829682175487529,
+        "E_diam_geom": 125.17117186550033,
+        "E_diam_detected": 129.95371271488963,
+        "E_mec_detected": null,
+        "P90_diam_detected": 177.43168464437596
+      },
+      {
+        "d": 700.0,
+        "alpha": 35.0,
+        "p_detect": 0.9997668393716589,
+        "E_log_diam": 4.810598350601264,
+        "E_diam_geom": 122.80507602918149,
+        "E_diam_detected": 126.78308890020571,
+        "E_mec_detected": null,
+        "P90_diam_detected": 168.79806816402808
+      },
+      {
+        "d": 700.0,
+        "alpha": 40.0,
+        "p_detect": 0.989328127985593,
+        "E_log_diam": 4.790256820052231,
+        "E_diam_geom": 120.33226843466961,
+        "E_diam_detected": 124.160872475058,
+        "E_mec_detected": null,
+        "P90_diam_detected": 163.95743674199514
+      },
+      {
+        "d": 700.0,
+        "alpha": 45.0,
+        "p_detect": 0.9667246524849282,
+        "E_log_diam": 4.797938708028316,
+        "E_diam_geom": 121.2602070376493,
+        "E_diam_detected": 123.56113084707677,
+        "E_mec_detected": null,
+        "P90_diam_detected": 164.29540028300772
+      },
+      {
+        "d": 700.0,
+        "alpha": 50.0,
+        "p_detect": 0.9298876855344548,
+        "E_log_diam": 4.8307013892466415,
+        "E_diam_geom": 125.29881308190238,
+        "E_diam_detected": 123.61089454748995,
+        "E_mec_detected": null,
+        "P90_diam_detected": 162.72035915108822
+      },
+      {
+        "d": 700.0,
+        "alpha": 55.0,
+        "p_detect": 0.8758662324841896,
+        "E_log_diam": 4.918118089291935,
+        "E_diam_geom": 136.7450289529656,
+        "E_diam_detected": 124.77729394071183,
+        "E_mec_detected": null,
+        "P90_diam_detected": 161.9881179920645
+      },
+      {
+        "d": 700.0,
+        "alpha": 60.0,
+        "p_detect": 0.7987586229898905,
+        "E_log_diam": 5.05485862858894,
+        "E_diam_geom": 156.782364233317,
+        "E_diam_detected": 128.6426619978161,
+        "E_mec_detected": null,
+        "P90_diam_detected": 165.2266631292077
+      },
+      {
+        "d": 750.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.593854128573985,
+        "E_diam_geom": 730.5912432363519,
+        "E_diam_detected": 735.4754587423307,
+        "E_mec_detected": null,
+        "P90_diam_detected": 750.2855313662275
+      },
+      {
+        "d": 750.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.780975799185352,
+        "E_diam_geom": 324.0752685608193,
+        "E_diam_detected": 336.0426350872819,
+        "E_mec_detected": null,
+        "P90_diam_detected": 434.54422720106237
+      },
+      {
+        "d": 750.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.29553868163855,
+        "E_diam_geom": 199.44503441243253,
+        "E_diam_detected": 209.68603600830772,
+        "E_mec_detected": null,
+        "P90_diam_detected": 287.4990283342231
+      },
+      {
+        "d": 750.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.036592867682855,
+        "E_diam_geom": 153.94461081476493,
+        "E_diam_detected": 162.38408111757576,
+        "E_mec_detected": null,
+        "P90_diam_detected": 232.94413827696548
+      },
+      {
+        "d": 750.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.8677408033609275,
+        "E_diam_geom": 130.02682864568416,
+        "E_diam_detected": 136.2190517770387,
+        "E_mec_detected": null,
+        "P90_diam_detected": 188.78237251740762
+      },
+      {
+        "d": 750.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.777768290109969,
+        "E_diam_geom": 118.83884006969015,
+        "E_diam_detected": 124.16195341167303,
+        "E_mec_detected": null,
+        "P90_diam_detected": 173.74484211152415
+      },
+      {
+        "d": 750.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.730315113490251,
+        "E_diam_geom": 113.33126893425946,
+        "E_diam_detected": 117.81416929474268,
+        "E_mec_detected": null,
+        "P90_diam_detected": 159.63596762782387
+      },
+      {
+        "d": 750.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.709102335064122,
+        "E_diam_geom": 110.95251700535822,
+        "E_diam_detected": 114.55311951000185,
+        "E_mec_detected": null,
+        "P90_diam_detected": 153.8188551409451
+      },
+      {
+        "d": 750.0,
+        "alpha": 40.0,
+        "p_detect": 0.9945866849078245,
+        "E_log_diam": 4.69639484505745,
+        "E_diam_geom": 109.55150950159975,
+        "E_diam_detected": 113.26588061493665,
+        "E_mec_detected": null,
+        "P90_diam_detected": 153.60343855352966
+      },
+      {
+        "d": 750.0,
+        "alpha": 45.0,
+        "p_detect": 0.9732410961192324,
+        "E_log_diam": 4.711647691684674,
+        "E_diam_geom": 111.23529045605184,
+        "E_diam_detected": 113.71321967248358,
+        "E_mec_detected": null,
+        "P90_diam_detected": 149.46854500778386
+      },
+      {
+        "d": 750.0,
+        "alpha": 50.0,
+        "p_detect": 0.935663098727166,
+        "E_log_diam": 4.7660074875216365,
+        "E_diam_geom": 117.4493864917455,
+        "E_diam_detected": 113.9230951498494,
+        "E_mec_detected": null,
+        "P90_diam_detected": 147.29443739334357
+      },
+      {
+        "d": 750.0,
+        "alpha": 55.0,
+        "p_detect": 0.8783109587757633,
+        "E_log_diam": 4.888656417139968,
+        "E_diam_geom": 132.7750598591666,
+        "E_diam_detected": 117.07814534882154,
+        "E_mec_detected": null,
+        "P90_diam_detected": 150.90569686513425
+      },
+      {
+        "d": 750.0,
+        "alpha": 60.0,
+        "p_detect": 0.7940217910104609,
+        "E_log_diam": 5.021527907822836,
+        "E_diam_geom": 151.64282313465117,
+        "E_diam_detected": 118.8570917964231,
+        "E_mec_detected": null,
+        "P90_diam_detected": 151.67845292543416
+      },
+      {
+        "d": 800.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.518293514789698,
+        "E_diam_geom": 677.4213888403106,
+        "E_diam_detected": 682.4772537866733,
+        "E_mec_detected": null,
+        "P90_diam_detected": 700.3181515683442
+      },
+      {
+        "d": 800.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.622871808635549,
+        "E_diam_geom": 276.6828235070144,
+        "E_diam_detected": 290.61696842061025,
+        "E_mec_detected": null,
+        "P90_diam_detected": 385.7068970572586
+      },
+      {
+        "d": 800.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.133878588764499,
+        "E_diam_geom": 169.67393888550626,
+        "E_diam_detected": 180.02094699118334,
+        "E_mec_detected": null,
+        "P90_diam_detected": 256.4982103232494
+      },
+      {
+        "d": 800.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.872255290415447,
+        "E_diam_geom": 130.61516008847482,
+        "E_diam_detected": 139.43248352903095,
+        "E_mec_detected": null,
+        "P90_diam_detected": 202.28960727624101
+      },
+      {
+        "d": 800.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.733650958630468,
+        "E_diam_geom": 113.70995576611779,
+        "E_diam_detected": 119.64048507378737,
+        "E_mec_detected": null,
+        "P90_diam_detected": 169.46596671634967
+      },
+      {
+        "d": 800.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.656554535987731,
+        "E_diam_geom": 105.27274313239764,
+        "E_diam_detected": 110.44268127760785,
+        "E_mec_detected": null,
+        "P90_diam_detected": 157.18481218617254
+      },
+      {
+        "d": 800.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.623079596203927,
+        "E_diam_geom": 101.8070745403174,
+        "E_diam_detected": 106.08993467941295,
+        "E_mec_detected": null,
+        "P90_diam_detected": 148.06829580709615
+      },
+      {
+        "d": 800.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.610250490746601,
+        "E_diam_geom": 100.50932313878646,
+        "E_diam_detected": 104.11805550290701,
+        "E_mec_detected": null,
+        "P90_diam_detected": 143.5873218790728
+      },
+      {
+        "d": 800.0,
+        "alpha": 40.0,
+        "p_detect": 0.9983460612735346,
+        "E_log_diam": 4.618178892891353,
+        "E_diam_geom": 101.30936882301465,
+        "E_diam_detected": 104.47393176987961,
+        "E_mec_detected": null,
+        "P90_diam_detected": 137.64548736981126
+      },
+      {
+        "d": 800.0,
+        "alpha": 45.0,
+        "p_detect": 0.9783558593899667,
+        "E_log_diam": 4.6334227809318,
+        "E_diam_geom": 102.86554847821887,
+        "E_diam_detected": 105.62347807064306,
+        "E_mec_detected": null,
+        "P90_diam_detected": 140.9599101845672
+      },
+      {
+        "d": 800.0,
+        "alpha": 50.0,
+        "p_detect": 0.9397458406999791,
+        "E_log_diam": 4.687124347261895,
+        "E_diam_geom": 108.540605505824,
+        "E_diam_detected": 106.8592777980617,
+        "E_mec_detected": null,
+        "P90_diam_detected": 140.5814092946172
+      },
+      {
+        "d": 800.0,
+        "alpha": 55.0,
+        "p_detect": 0.8782048991719023,
+        "E_log_diam": 4.787612586358128,
+        "E_diam_geom": 120.01450210535528,
+        "E_diam_detected": 110.49164359918815,
+        "E_mec_detected": null,
+        "P90_diam_detected": 140.3597100791669
+      },
+      {
+        "d": 800.0,
+        "alpha": 60.0,
+        "p_detect": 0.7857123387795472,
+        "E_log_diam": 5.058106892054809,
+        "E_diam_geom": 157.29246267770594,
+        "E_diam_detected": 110.08123439100494,
+        "E_mec_detected": null,
+        "P90_diam_detected": 140.44571953771037
+      },
+      {
+        "d": 850.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.412361958142415,
+        "E_diam_geom": 609.3311974997009,
+        "E_diam_detected": 619.0693515308101,
+        "E_mec_detected": null,
+        "P90_diam_detected": 650.3557859008424
+      },
+      {
+        "d": 850.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.447377926802533,
+        "E_diam_geom": 232.14865639783034,
+        "E_diam_detected": 247.86294805838406,
+        "E_mec_detected": null,
+        "P90_diam_detected": 346.9882708317399
+      },
+      {
+        "d": 850.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.961380129269422,
+        "E_diam_geom": 142.79072963409263,
+        "E_diam_detected": 154.27538470756036,
+        "E_mec_detected": null,
+        "P90_diam_detected": 236.474599231813
+      },
+      {
+        "d": 850.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.728967874067453,
+        "E_diam_geom": 113.17868738593269,
+        "E_diam_detected": 121.19655066912728,
+        "E_mec_detected": null,
+        "P90_diam_detected": 181.29288612263002
+      },
+      {
+        "d": 850.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.604968992204878,
+        "E_diam_geom": 99.97988264548984,
+        "E_diam_detected": 105.86505851222057,
+        "E_mec_detected": null,
+        "P90_diam_detected": 155.18205024842248
+      },
+      {
+        "d": 850.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.546682219865802,
+        "E_diam_geom": 94.31895905595637,
+        "E_diam_detected": 98.81211735971304,
+        "E_mec_detected": null,
+        "P90_diam_detected": 140.63951437081965
+      },
+      {
+        "d": 850.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.528408546116892,
+        "E_diam_geom": 92.61105751358171,
+        "E_diam_detected": 96.37342262991075,
+        "E_mec_detected": null,
+        "P90_diam_detected": 135.03155123541467
+      },
+      {
+        "d": 850.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.515414602582178,
+        "E_diam_geom": 91.41545925198687,
+        "E_diam_detected": 94.6560432146962,
+        "E_mec_detected": null,
+        "P90_diam_detected": 128.18034312662766
+      },
+      {
+        "d": 850.0,
+        "alpha": 40.0,
+        "p_detect": 0.9996711194810718,
+        "E_log_diam": 4.539205175070121,
+        "E_diam_geom": 93.61636192242491,
+        "E_diam_detected": 96.36057114239145,
+        "E_mec_detected": null,
+        "P90_diam_detected": 130.24638525946426
+      },
+      {
+        "d": 850.0,
+        "alpha": 45.0,
+        "p_detect": 0.9822578890823729,
+        "E_log_diam": 4.556330555168796,
+        "E_diam_geom": 95.23338424510395,
+        "E_diam_detected": 97.76483045525454,
+        "E_mec_detected": null,
+        "P90_diam_detected": 129.46038003742834
+      },
+      {
+        "d": 850.0,
+        "alpha": 50.0,
+        "p_detect": 0.9422446335272149,
+        "E_log_diam": 4.636665615191323,
+        "E_diam_geom": 103.19966585378734,
+        "E_diam_detected": 101.543700426126,
+        "E_mec_detected": null,
+        "P90_diam_detected": 134.37092667672044
+      },
+      {
+        "d": 850.0,
+        "alpha": 55.0,
+        "p_detect": 0.8753346790214636,
+        "E_log_diam": 4.757856344481517,
+        "E_diam_geom": 116.49593089799056,
+        "E_diam_detected": 103.2935615080356,
+        "E_mec_detected": null,
+        "P90_diam_detected": 135.30716462683054
+      },
+      {
+        "d": 850.0,
+        "alpha": 60.0,
+        "p_detect": 0.7739258569318099,
+        "E_log_diam": 4.960762300897723,
+        "E_diam_geom": 142.70253671695758,
+        "E_diam_detected": 105.63412977372255,
+        "E_mec_detected": null,
+        "P90_diam_detected": 131.33747721036025
+      },
+      {
+        "d": 900.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.299187773135059,
+        "E_diam_geom": 544.1297737724516,
+        "E_diam_detected": 561.2788618233432,
+        "E_mec_detected": null,
+        "P90_diam_detected": 600.3996861202563
+      },
+      {
+        "d": 900.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.250352944046249,
+        "E_diam_geom": 190.63353955926718,
+        "E_diam_detected": 210.18451801717595,
+        "E_mec_detected": null,
+        "P90_diam_detected": 304.81179192061956
+      },
+      {
+        "d": 900.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.781471791722322,
+        "E_diam_geom": 119.2797759047998,
+        "E_diam_detected": 131.66482209719447,
+        "E_mec_detected": null,
+        "P90_diam_detected": 203.6549460803706
+      },
+      {
+        "d": 900.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.582826969989446,
+        "E_diam_geom": 97.79045449624216,
+        "E_diam_detected": 105.13486027263815,
+        "E_mec_detected": null,
+        "P90_diam_detected": 156.12507378907142
+      },
+      {
+        "d": 900.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.481982446068066,
+        "E_diam_geom": 88.40976665540568,
+        "E_diam_detected": 93.47523099525453,
+        "E_mec_detected": null,
+        "P90_diam_detected": 136.03077436723134
+      },
+      {
+        "d": 900.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.446514873741979,
+        "E_diam_geom": 85.32904270460998,
+        "E_diam_detected": 89.5542636954325,
+        "E_mec_detected": null,
+        "P90_diam_detected": 129.2454782159525
+      },
+      {
+        "d": 900.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.438231883989785,
+        "E_diam_geom": 84.62518217728653,
+        "E_diam_detected": 87.9936336785425,
+        "E_mec_detected": null,
+        "P90_diam_detected": 122.971434617588
+      },
+      {
+        "d": 900.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.4404083932065355,
+        "E_diam_geom": 84.80957025464932,
+        "E_diam_detected": 87.79418940126583,
+        "E_mec_detected": null,
+        "P90_diam_detected": 121.0377879314914
+      },
+      {
+        "d": 900.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.471817714970017,
+        "E_diam_geom": 87.51565704121394,
+        "E_diam_detected": 90.07532448690239,
+        "E_mec_detected": null,
+        "P90_diam_detected": 121.49083637320895
+      },
+      {
+        "d": 900.0,
+        "alpha": 45.0,
+        "p_detect": 0.9849543392865828,
+        "E_log_diam": 4.5019035003985355,
+        "E_diam_geom": 90.18864212950658,
+        "E_diam_detected": 91.937375895383,
+        "E_mec_detected": null,
+        "P90_diam_detected": 120.90752843798374
+      },
+      {
+        "d": 900.0,
+        "alpha": 50.0,
+        "p_detect": 0.9431800175730064,
+        "E_log_diam": 4.561562799419397,
+        "E_diam_geom": 95.73297442145254,
+        "E_diam_detected": 94.46127416197625,
+        "E_mec_detected": null,
+        "P90_diam_detected": 124.10997800982037
+      },
+      {
+        "d": 900.0,
+        "alpha": 55.0,
+        "p_detect": 0.8695402421443947,
+        "E_log_diam": 4.753866634096092,
+        "E_diam_geom": 116.03207181961892,
+        "E_diam_detected": 97.78867486881184,
+        "E_mec_detected": null,
+        "P90_diam_detected": 124.60304504055013
+      },
+      {
+        "d": 900.0,
+        "alpha": 60.0,
+        "p_detect": 0.7576719390517346,
+        "E_log_diam": 4.940347825516155,
+        "E_diam_geom": 139.818873675063,
+        "E_diam_detected": 101.39568787757412,
+        "E_mec_detected": null,
+        "P90_diam_detected": 130.6165607679673
+      },
+      {
+        "d": 950.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.122946230289233,
+        "E_diam_geom": 456.20680675502655,
+        "E_diam_detected": 488.68022535018105,
+        "E_mec_detected": null,
+        "P90_diam_detected": 550.4515582064441
+      },
+      {
+        "d": 950.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.0332560278810385,
+        "E_diam_geom": 153.43177840576436,
+        "E_diam_detected": 174.63733468893133,
+        "E_mec_detected": null,
+        "P90_diam_detected": 274.47954005661745
+      },
+      {
+        "d": 950.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.605563424555698,
+        "E_diam_geom": 100.03933158960282,
+        "E_diam_detected": 110.90364087465349,
+        "E_mec_detected": null,
+        "P90_diam_detected": 172.46448481211044
+      },
+      {
+        "d": 950.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.445338461129783,
+        "E_diam_geom": 85.22871956485926,
+        "E_diam_detected": 92.22069198084533,
+        "E_mec_detected": null,
+        "P90_diam_detected": 142.2845707595042
+      },
+      {
+        "d": 950.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.3650771790724106,
+        "E_diam_geom": 78.65547026375796,
+        "E_diam_detected": 83.40998961316812,
+        "E_mec_detected": null,
+        "P90_diam_detected": 125.91379011795728
+      },
+      {
+        "d": 950.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.347622099707177,
+        "E_diam_geom": 77.29444573955234,
+        "E_diam_detected": 80.94597434025431,
+        "E_mec_detected": null,
+        "P90_diam_detected": 116.37506308530376
+      },
+      {
+        "d": 950.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.351350026211807,
+        "E_diam_geom": 77.58313151783508,
+        "E_diam_detected": 80.65987915140454,
+        "E_mec_detected": null,
+        "P90_diam_detected": 113.66451845534283
+      },
+      {
+        "d": 950.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.373126188003628,
+        "E_diam_geom": 79.29112360429603,
+        "E_diam_detected": 81.84034539898641,
+        "E_mec_detected": null,
+        "P90_diam_detected": 111.89102452706398
+      },
+      {
+        "d": 950.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.399880288824599,
+        "E_diam_geom": 81.4411186693462,
+        "E_diam_detected": 83.8992634687935,
+        "E_mec_detected": null,
+        "P90_diam_detected": 112.11639969693933
+      },
+      {
+        "d": 950.0,
+        "alpha": 45.0,
+        "p_detect": 0.9867106446389302,
+        "E_log_diam": 4.442230388706514,
+        "E_diam_geom": 84.96423376533272,
+        "E_diam_detected": 86.71272245564924,
+        "E_mec_detected": null,
+        "P90_diam_detected": 113.65778669798708
+      },
+      {
+        "d": 950.0,
+        "alpha": 50.0,
+        "p_detect": 0.9424823838453906,
+        "E_log_diam": 4.551588385203513,
+        "E_diam_geom": 94.78284047254303,
+        "E_diam_detected": 89.82545524008472,
+        "E_mec_detected": null,
+        "P90_diam_detected": 117.27528396248714
+      },
+      {
+        "d": 950.0,
+        "alpha": 55.0,
+        "p_detect": 0.8598874154066499,
+        "E_log_diam": 4.739558403088393,
+        "E_diam_geom": 114.38367904625504,
+        "E_diam_detected": 92.34362443654649,
+        "E_mec_detected": null,
+        "P90_diam_detected": 121.72241411497458
+      },
+      {
+        "d": 950.0,
+        "alpha": 60.0,
+        "p_detect": 0.7360062836949265,
+        "E_log_diam": 5.05547175920494,
+        "E_diam_geom": 156.87852177643165,
+        "E_diam_detected": 96.5455723863845,
+        "E_mec_detected": null,
+        "P90_diam_detected": 123.71352888445877
+      },
+      {
+        "d": 1000.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.856289080578325,
+        "E_diam_geom": 349.42504689540806,
+        "E_diam_detected": 412.52487068117375,
+        "E_mec_detected": null,
+        "P90_diam_detected": 500.51378879158
+      },
+      {
+        "d": 1000.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.807461245717237,
+        "E_diam_geom": 122.42042728257546,
+        "E_diam_detected": 144.67589949974666,
+        "E_mec_detected": null,
+        "P90_diam_detected": 238.57404965676702
+      },
+      {
+        "d": 1000.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.438846512395613,
+        "E_diam_geom": 84.6772112057225,
+        "E_diam_detected": 94.4320518833243,
+        "E_mec_detected": null,
+        "P90_diam_detected": 152.63893067334186
+      },
+      {
+        "d": 1000.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.310764142845216,
+        "E_diam_geom": 74.49739384633304,
+        "E_diam_detected": 80.58883955335398,
+        "E_mec_detected": null,
+        "P90_diam_detected": 125.06276701070463
+      },
+      {
+        "d": 1000.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.262979531279235,
+        "E_diam_geom": 71.02127863885025,
+        "E_diam_detected": 75.35751204059274,
+        "E_mec_detected": null,
+        "P90_diam_detected": 112.35922474323603
+      },
+      {
+        "d": 1000.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.253880921629566,
+        "E_diam_geom": 70.37801458963322,
+        "E_diam_detected": 73.57779886798377,
+        "E_mec_detected": null,
+        "P90_diam_detected": 105.5754630709406
+      },
+      {
+        "d": 1000.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.271090832726905,
+        "E_diam_geom": 71.59969632788183,
+        "E_diam_detected": 74.27697150552608,
+        "E_mec_detected": null,
+        "P90_diam_detected": 103.16332608152496
+      },
+      {
+        "d": 1000.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.304726785578403,
+        "E_diam_geom": 74.0489814392285,
+        "E_diam_detected": 76.40210311225078,
+        "E_mec_detected": null,
+        "P90_diam_detected": 103.85352458702211
+      },
+      {
+        "d": 1000.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.349056916392576,
+        "E_diam_geom": 77.40542870105055,
+        "E_diam_detected": 79.33123547587198,
+        "E_mec_detected": null,
+        "P90_diam_detected": 103.83186850829901
+      },
+      {
+        "d": 1000.0,
+        "alpha": 45.0,
+        "p_detect": 0.9875928616680061,
+        "E_log_diam": 4.402230124677702,
+        "E_diam_geom": 81.63271695400877,
+        "E_diam_detected": 83.10715778939247,
+        "E_mec_detected": null,
+        "P90_diam_detected": 107.92681173893622
+      },
+      {
+        "d": 1000.0,
+        "alpha": 50.0,
+        "p_detect": 0.939922946823518,
+        "E_log_diam": 4.4922892628012905,
+        "E_diam_geom": 89.32570199827002,
+        "E_diam_detected": 86.05233725670338,
+        "E_mec_detected": null,
+        "P90_diam_detected": 112.24770343852181
+      },
+      {
+        "d": 1000.0,
+        "alpha": 55.0,
+        "p_detect": 0.8461657658089022,
+        "E_log_diam": 4.700411181391152,
+        "E_diam_geom": 109.99238997911131,
+        "E_diam_detected": 89.32986771041418,
+        "E_mec_detected": null,
+        "P90_diam_detected": 114.59865865118707
+      },
+      {
+        "d": 1000.0,
+        "alpha": 60.0,
+        "p_detect": 0.7064643616958858,
+        "E_log_diam": 5.043007597912439,
+        "E_diam_geom": 154.93529806202915,
+        "E_diam_detected": 94.40503048901029,
+        "E_mec_detected": null,
+        "P90_diam_detected": 118.5869889731817
+      },
+      {
+        "d": 1050.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.613055936135611,
+        "E_diam_geom": 273.9802260643797,
+        "E_diam_detected": 352.7824120546151,
+        "E_mec_detected": null,
+        "P90_diam_detected": 450.58982191024063
+      },
+      {
+        "d": 1050.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.588749473536884,
+        "E_diam_geom": 98.37133725207116,
+        "E_diam_detected": 117.80505215975117,
+        "E_mec_detected": null,
+        "P90_diam_detected": 202.4806369461578
+      },
+      {
+        "d": 1050.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.29503853153234,
+        "E_diam_geom": 73.33504010205458,
+        "E_diam_detected": 81.72665594055293,
+        "E_mec_detected": null,
+        "P90_diam_detected": 137.104148347554
+      },
+      {
+        "d": 1050.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.193595187558413,
+        "E_diam_geom": 66.2605824734585,
+        "E_diam_detected": 71.25178998895312,
+        "E_mec_detected": null,
+        "P90_diam_detected": 113.84274673027417
+      },
+      {
+        "d": 1050.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.168337037443847,
+        "E_diam_geom": 64.60792216765634,
+        "E_diam_detected": 68.18617767555419,
+        "E_mec_detected": null,
+        "P90_diam_detected": 101.57157661280095
+      },
+      {
+        "d": 1050.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.177372791620658,
+        "E_diam_geom": 65.19434888417621,
+        "E_diam_detected": 67.90390054590547,
+        "E_mec_detected": null,
+        "P90_diam_detected": 95.91270117072101
+      },
+      {
+        "d": 1050.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.202875330182912,
+        "E_diam_geom": 66.87835219116435,
+        "E_diam_detected": 69.13897558305862,
+        "E_mec_detected": null,
+        "P90_diam_detected": 94.75734780164707
+      },
+      {
+        "d": 1050.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.250246083735295,
+        "E_diam_geom": 70.12266627129056,
+        "E_diam_detected": 72.09981344394244,
+        "E_mec_detected": null,
+        "P90_diam_detected": 97.38561153570166
+      },
+      {
+        "d": 1050.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.293972434488701,
+        "E_diam_geom": 73.25689949274391,
+        "E_diam_detected": 74.9598101104293,
+        "E_mec_detected": null,
+        "P90_diam_detected": 99.46580195752101
+      },
+      {
+        "d": 1050.0,
+        "alpha": 45.0,
+        "p_detect": 0.987640004222294,
+        "E_log_diam": 4.378574644142173,
+        "E_diam_geom": 79.7243168590183,
+        "E_diam_detected": 79.0463982582278,
+        "E_mec_detected": null,
+        "P90_diam_detected": 102.37959294729036
+      },
+      {
+        "d": 1050.0,
+        "alpha": 50.0,
+        "p_detect": 0.9350490215175179,
+        "E_log_diam": 4.616964580577801,
+        "E_diam_geom": 101.1864222718378,
+        "E_diam_detected": 81.52524255413958,
+        "E_mec_detected": null,
+        "P90_diam_detected": 102.9020500972912
+      },
+      {
+        "d": 1050.0,
+        "alpha": 55.0,
+        "p_detect": 0.8274581223728493,
+        "E_log_diam": 5.004612865044108,
+        "E_diam_geom": 149.0993504134813,
+        "E_diam_detected": 85.35127840386811,
+        "E_mec_detected": null,
+        "P90_diam_detected": 108.63714479017797
+      },
+      {
+        "d": 1050.0,
+        "alpha": 60.0,
+        "p_detect": 0.6708733124030755,
+        "E_log_diam": 5.558021672098554,
+        "E_diam_geom": 259.30932966617297,
+        "E_diam_detected": 90.51122279711326,
+        "E_mec_detected": null,
+        "P90_diam_detected": 114.61232456467991
+      },
+      {
+        "d": 1100.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.5009467004870745,
+        "E_diam_geom": 244.9236919218591,
+        "E_diam_detected": 315.9336728315218,
+        "E_mec_detected": null,
+        "P90_diam_detected": 400.6848168419941
+      },
+      {
+        "d": 1100.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.434402153233552,
+        "E_diam_geom": 84.3017103147796,
+        "E_diam_detected": 98.23417795775853,
+        "E_mec_detected": null,
+        "P90_diam_detected": 174.3931492776744
+      },
+      {
+        "d": 1100.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.173197675046641,
+        "E_diam_geom": 64.92272230850033,
+        "E_diam_detected": 71.29163605198325,
+        "E_mec_detected": null,
+        "P90_diam_detected": 118.4862225331279
+      },
+      {
+        "d": 1100.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.095898434459984,
+        "E_diam_geom": 60.09330480737404,
+        "E_diam_detected": 63.8470220943622,
+        "E_mec_detected": null,
+        "P90_diam_detected": 97.9462491923485
+      },
+      {
+        "d": 1100.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.083719104685734,
+        "E_diam_geom": 59.36584759387382,
+        "E_diam_detected": 62.24950296693958,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.13439060574281
+      },
+      {
+        "d": 1100.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.105248744744279,
+        "E_diam_geom": 60.65783098784946,
+        "E_diam_detected": 63.05031034735381,
+        "E_mec_detected": null,
+        "P90_diam_detected": 88.94803882321874
+      },
+      {
+        "d": 1100.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.14632067150595,
+        "E_diam_geom": 63.201034614786806,
+        "E_diam_detected": 65.21721129600742,
+        "E_mec_detected": null,
+        "P90_diam_detected": 89.1859794826992
+      },
+      {
+        "d": 1100.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.197186641776355,
+        "E_diam_geom": 66.49898216640679,
+        "E_diam_detected": 68.28401364179872,
+        "E_mec_detected": null,
+        "P90_diam_detected": 91.13008910474531
+      },
+      {
+        "d": 1100.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.2470798932117635,
+        "E_diam_geom": 69.90099566073378,
+        "E_diam_detected": 71.54141441149237,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.50982308389283
+      },
+      {
+        "d": 1100.0,
+        "alpha": 45.0,
+        "p_detect": 0.9867699786505466,
+        "E_log_diam": 4.378475768153677,
+        "E_diam_geom": 79.71643442807967,
+        "E_diam_detected": 75.40318748671015,
+        "E_mec_detected": null,
+        "P90_diam_detected": 97.1301364607575
+      },
+      {
+        "d": 1100.0,
+        "alpha": 50.0,
+        "p_detect": 0.9274509762438566,
+        "E_log_diam": 4.608648663733021,
+        "E_diam_geom": 100.34845346695636,
+        "E_diam_detected": 79.43870500069309,
+        "E_mec_detected": null,
+        "P90_diam_detected": 101.07053380111859
+      },
+      {
+        "d": 1100.0,
+        "alpha": 55.0,
+        "p_detect": 0.8033250824903659,
+        "E_log_diam": 4.971262666097607,
+        "E_diam_geom": 144.20886009996752,
+        "E_diam_detected": 83.41026732903369,
+        "E_mec_detected": null,
+        "P90_diam_detected": 108.35375402000241
+      },
+      {
+        "d": 1100.0,
+        "alpha": 60.0,
+        "p_detect": 0.6316105911187818,
+        "E_log_diam": 5.525035037034471,
+        "E_diam_geom": 250.8951284881132,
+        "E_diam_detected": 87.6447438660867,
+        "E_mec_detected": null,
+        "P90_diam_detected": 106.33819307578872
+      },
+      {
+        "d": 1150.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.402200111700731,
+        "E_diam_geom": 221.89407130223088,
+        "E_diam_detected": 297.2392647202257,
+        "E_mec_detected": null,
+        "P90_diam_detected": 350.8068660763389
+      },
+      {
+        "d": 1150.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.329804185101099,
+        "E_diam_geom": 75.92941700227956,
+        "E_diam_detected": 85.23963514541312,
+        "E_mec_detected": null,
+        "P90_diam_detected": 153.751089508421
+      },
+      {
+        "d": 1150.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.088144321523721,
+        "E_diam_geom": 59.62913646777126,
+        "E_diam_detected": 63.63071402037132,
+        "E_mec_detected": null,
+        "P90_diam_detected": 103.44149264285332
+      },
+      {
+        "d": 1150.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.030476632543445,
+        "E_diam_geom": 56.287733420004564,
+        "E_diam_detected": 58.81737271964306,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.77178622844123
+      },
+      {
+        "d": 1150.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.02823381603902,
+        "E_diam_geom": 56.16163182672074,
+        "E_diam_detected": 58.342404884255856,
+        "E_mec_detected": null,
+        "P90_diam_detected": 84.6456431315479
+      },
+      {
+        "d": 1150.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0525476524362976,
+        "E_diam_geom": 57.54387224505259,
+        "E_diam_detected": 59.43428468541948,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.97577455161259
+      },
+      {
+        "d": 1150.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.100898469219398,
+        "E_diam_geom": 60.39452585050969,
+        "E_diam_detected": 62.16568320963651,
+        "E_mec_detected": null,
+        "P90_diam_detected": 84.65097609745925
+      },
+      {
+        "d": 1150.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.150317936344192,
+        "E_diam_geom": 63.45417147868135,
+        "E_diam_detected": 64.9760093717131,
+        "E_mec_detected": null,
+        "P90_diam_detected": 86.1707801996301
+      },
+      {
+        "d": 1150.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.21465712446299,
+        "E_diam_geom": 67.67095917618775,
+        "E_diam_detected": 69.11296060502846,
+        "E_mec_detected": null,
+        "P90_diam_detected": 90.32403958770881
+      },
+      {
+        "d": 1150.0,
+        "alpha": 45.0,
+        "p_detect": 0.9848566962158108,
+        "E_log_diam": 4.326860934394272,
+        "E_diam_geom": 75.70626624741823,
+        "E_diam_detected": 72.59578143518574,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.64530359391512
+      },
+      {
+        "d": 1150.0,
+        "alpha": 50.0,
+        "p_detect": 0.915253301244717,
+        "E_log_diam": 4.703866944755962,
+        "E_diam_geom": 110.3731551891064,
+        "E_diam_detected": 76.03757453429914,
+        "E_mec_detected": null,
+        "P90_diam_detected": 97.36033094277481
+      },
+      {
+        "d": 1150.0,
+        "alpha": 55.0,
+        "p_detect": 0.7695795158344191,
+        "E_log_diam": 5.216289287207774,
+        "E_diam_geom": 184.2492180701461,
+        "E_diam_detected": 81.59806890779625,
+        "E_mec_detected": null,
+        "P90_diam_detected": 103.29269316024602
+      },
+      {
+        "d": 1150.0,
+        "alpha": 60.0,
+        "p_detect": 0.5888748426349527,
+        "E_log_diam": 5.603884055634974,
+        "E_diam_geom": 271.4788010925128,
+        "E_diam_detected": 84.64498675664828,
+        "E_mec_detected": null,
+        "P90_diam_detected": 102.89049826921169
+      },
+      {
+        "d": 1200.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.319102177211029,
+        "E_diam_geom": 204.2004638368375,
+        "E_diam_detected": 287.328015901775,
+        "E_mec_detected": null,
+        "P90_diam_detected": 456.13613745133875
+      },
+      {
+        "d": 1200.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.258125568357232,
+        "E_diam_geom": 70.67737929820437,
+        "E_diam_detected": 76.63532602682135,
+        "E_mec_detected": null,
+        "P90_diam_detected": 128.80065781810927
+      },
+      {
+        "d": 1200.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.032756899397225,
+        "E_diam_geom": 56.41623092141508,
+        "E_diam_detected": 58.80004308205026,
+        "E_mec_detected": null,
+        "P90_diam_detected": 88.42104822345081
+      },
+      {
+        "d": 1200.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9828034029621606,
+        "E_diam_geom": 53.667274533434195,
+        "E_diam_detected": 55.364868822917714,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.37494291019644
+      },
+      {
+        "d": 1200.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.980447055173421,
+        "E_diam_geom": 53.54096464321822,
+        "E_diam_detected": 55.0060301380374,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.49591130482978
+      },
+      {
+        "d": 1200.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.011113918599058,
+        "E_diam_geom": 55.208333914493856,
+        "E_diam_detected": 56.710354834943246,
+        "E_mec_detected": null,
+        "P90_diam_detected": 76.88567849273859
+      },
+      {
+        "d": 1200.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.054921688366177,
+        "E_diam_geom": 57.68064575368011,
+        "E_diam_detected": 59.100101951086614,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.97968886803912
+      },
+      {
+        "d": 1200.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.112346043044926,
+        "E_diam_geom": 61.089869046593144,
+        "E_diam_detected": 62.43027000202381,
+        "E_mec_detected": null,
+        "P90_diam_detected": 81.46302076721598
+      },
+      {
+        "d": 1200.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.173012425178818,
+        "E_diam_geom": 64.9106964966984,
+        "E_diam_detected": 66.1767504424532,
+        "E_mec_detected": null,
+        "P90_diam_detected": 84.52453465064208
+      },
+      {
+        "d": 1200.0,
+        "alpha": 45.0,
+        "p_detect": 0.9817619189104806,
+        "E_log_diam": 4.2881376032413066,
+        "E_diam_geom": 72.83070244957385,
+        "E_diam_detected": 70.79066046282706,
+        "E_mec_detected": null,
+        "P90_diam_detected": 90.83578332316524
+      },
+      {
+        "d": 1200.0,
+        "alpha": 50.0,
+        "p_detect": 0.8966738319757571,
+        "E_log_diam": 4.600903871025434,
+        "E_diam_geom": 99.57427728306331,
+        "E_diam_detected": 74.87868184781188,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.82746116710508
+      },
+      {
+        "d": 1200.0,
+        "alpha": 55.0,
+        "p_detect": 0.7279579908673169,
+        "E_log_diam": 5.226432828466866,
+        "E_diam_geom": 186.12766857937396,
+        "E_diam_detected": 79.2587441933681,
+        "E_mec_detected": null,
+        "P90_diam_detected": 98.75230135079462
+      },
+      {
+        "d": 1200.0,
+        "alpha": 60.0,
+        "p_detect": 0.5428493259963123,
+        "E_log_diam": 5.777110571416591,
+        "E_diam_geom": 322.825061557528,
+        "E_diam_detected": 84.84113021265505,
+        "E_mec_detected": null,
+        "P90_diam_detected": 106.40349570603576
+      },
+      {
+        "d": 1250.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.379217721920949,
+        "E_diam_geom": 216.85257004327124,
+        "E_diam_detected": 329.48629980090436,
+        "E_mec_detected": null,
+        "P90_diam_detected": 946.1141801081873
+      },
+      {
+        "d": 1250.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.2404280357243955,
+        "E_diam_geom": 69.43756723806827,
+        "E_diam_detected": 73.3987773889046,
+        "E_mec_detected": null,
+        "P90_diam_detected": 108.46148572358604
+      },
+      {
+        "d": 1250.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.012161341675397,
+        "E_diam_geom": 55.26619069241476,
+        "E_diam_detected": 56.64945480778279,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.97688909604283
+      },
+      {
+        "d": 1250.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.962290322441146,
+        "E_diam_geom": 52.57760782948876,
+        "E_diam_detected": 53.562336389757455,
+        "E_mec_detected": null,
+        "P90_diam_detected": 73.4995033122569
+      },
+      {
+        "d": 1250.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.958044769257263,
+        "E_diam_geom": 52.35485997767363,
+        "E_diam_detected": 53.297764181550946,
+        "E_mec_detected": null,
+        "P90_diam_detected": 71.18852220100362
+      },
+      {
+        "d": 1250.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.985288742919694,
+        "E_diam_geom": 53.8008218417323,
+        "E_diam_detected": 54.83641109827333,
+        "E_mec_detected": null,
+        "P90_diam_detected": 72.42431104031706
+      },
+      {
+        "d": 1250.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.02575566117267,
+        "E_diam_geom": 56.02262691449571,
+        "E_diam_detected": 57.177747612447256,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.16880805782502
+      },
+      {
+        "d": 1250.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0792210115451555,
+        "E_diam_geom": 59.0994141524701,
+        "E_diam_detected": 60.30053777666984,
+        "E_mec_detected": null,
+        "P90_diam_detected": 78.32547752419023
+      },
+      {
+        "d": 1250.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.151506362453031,
+        "E_diam_geom": 63.5296269004972,
+        "E_diam_detected": 64.70536986392773,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.15520096931088
+      },
+      {
+        "d": 1250.0,
+        "alpha": 45.0,
+        "p_detect": 0.976730848556891,
+        "E_log_diam": 4.302166067677806,
+        "E_diam_geom": 73.85960545964909,
+        "E_diam_detected": 68.41768692450296,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.30439944274713
+      },
+      {
+        "d": 1250.0,
+        "alpha": 50.0,
+        "p_detect": 0.8700995323900403,
+        "E_log_diam": 4.700004005061086,
+        "E_diam_geom": 109.94761279814716,
+        "E_diam_detected": 71.76528232487065,
+        "E_mec_detected": null,
+        "P90_diam_detected": 91.33525442315522
+      },
+      {
+        "d": 1250.0,
+        "alpha": 55.0,
+        "p_detect": 0.6827650517494323,
+        "E_log_diam": 5.254891042555077,
+        "E_diam_geom": 191.50061929943453,
+        "E_diam_detected": 77.5411072067155,
+        "E_mec_detected": null,
+        "P90_diam_detected": 98.69284716245137
+      },
+      {
+        "d": 1250.0,
+        "alpha": 60.0,
+        "p_detect": 0.4937163016913199,
+        "E_log_diam": 5.862267376712935,
+        "E_diam_geom": 351.5202699944023,
+        "E_diam_detected": 82.07567765413071,
+        "E_mec_detected": null,
+        "P90_diam_detected": 102.32021797395541
+      },
+      {
+        "d": 1300.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.498494793896611,
+        "E_diam_geom": 244.32389752787822,
+        "E_diam_detected": 394.15547766287824,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1155.2465153832281
+      },
+      {
+        "d": 1300.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.264900166437223,
+        "E_diam_geom": 71.15781568051862,
+        "E_diam_detected": 75.07739106040411,
+        "E_mec_detected": null,
+        "P90_diam_detected": 113.0027579725963
+      },
+      {
+        "d": 1300.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.025933303388079,
+        "E_diam_geom": 56.032579782052416,
+        "E_diam_detected": 56.90742816631692,
+        "E_mec_detected": null,
+        "P90_diam_detected": 71.80913677805727
+      },
+      {
+        "d": 1300.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9621469435468373,
+        "E_diam_geom": 52.57006985061922,
+        "E_diam_detected": 53.05308026856534,
+        "E_mec_detected": null,
+        "P90_diam_detected": 67.4299529679318
+      },
+      {
+        "d": 1300.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9510591705341467,
+        "E_diam_geom": 51.99040438699446,
+        "E_diam_detected": 52.526824730177516,
+        "E_mec_detected": null,
+        "P90_diam_detected": 67.40526228027692
+      },
+      {
+        "d": 1300.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.968882170885582,
+        "E_diam_geom": 52.9253362793551,
+        "E_diam_detected": 53.59649986871262,
+        "E_mec_detected": null,
+        "P90_diam_detected": 67.81442057638712
+      },
+      {
+        "d": 1300.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.005878339400208,
+        "E_diam_geom": 54.92004165685986,
+        "E_diam_detected": 55.73871998731707,
+        "E_mec_detected": null,
+        "P90_diam_detected": 70.29630876909128
+      },
+      {
+        "d": 1300.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.05557681776343,
+        "E_diam_geom": 57.71844642117815,
+        "E_diam_detected": 58.69429197817492,
+        "E_mec_detected": null,
+        "P90_diam_detected": 74.57280275647176
+      },
+      {
+        "d": 1300.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.118648613490474,
+        "E_diam_geom": 61.4761081207278,
+        "E_diam_detected": 62.49164894062417,
+        "E_mec_detected": null,
+        "P90_diam_detected": 78.80406652967623
+      },
+      {
+        "d": 1300.0,
+        "alpha": 45.0,
+        "p_detect": 0.9686348920698933,
+        "E_log_diam": 4.29432269999487,
+        "E_diam_geom": 73.28256335204507,
+        "E_diam_detected": 66.61066378778568,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.81986453152044
+      },
+      {
+        "d": 1300.0,
+        "alpha": 50.0,
+        "p_detect": 0.8309624374562578,
+        "E_log_diam": 4.75529855231524,
+        "E_diam_geom": 116.19833926954891,
+        "E_diam_detected": 71.2276395108948,
+        "E_mec_detected": null,
+        "P90_diam_detected": 88.23128656952177
+      },
+      {
+        "d": 1300.0,
+        "alpha": 55.0,
+        "p_detect": 0.6342570957205516,
+        "E_log_diam": 5.49134495948663,
+        "E_diam_geom": 242.58325219625863,
+        "E_diam_detected": 75.35344945147568,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.15593714714566
+      },
+      {
+        "d": 1300.0,
+        "alpha": 60.0,
+        "p_detect": 0.44165498196851016,
+        "E_log_diam": 6.082858253833859,
+        "E_diam_geom": 438.2801219718798,
+        "E_diam_detected": 79.59092162438805,
+        "E_mec_detected": null,
+        "P90_diam_detected": 94.50623401391076
+      },
+      {
+        "d": 1350.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.604256986911803,
+        "E_diam_geom": 271.5800629091121,
+        "E_diam_detected": 462.84758971871486,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1350.0
+      },
+      {
+        "d": 1350.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.330422844382082,
+        "E_diam_geom": 75.97640597439079,
+        "E_diam_detected": 81.00032346168967,
+        "E_mec_detected": null,
+        "P90_diam_detected": 128.8672844531658
+      },
+      {
+        "d": 1350.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.063158712138399,
+        "E_diam_geom": 58.15772476209314,
+        "E_diam_detected": 58.95519515919425,
+        "E_mec_detected": null,
+        "P90_diam_detected": 74.75625969812224
+      },
+      {
+        "d": 1350.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.979981422427638,
+        "E_diam_geom": 53.51604002015022,
+        "E_diam_detected": 53.80567038826501,
+        "E_mec_detected": null,
+        "P90_diam_detected": 62.17864376081899
+      },
+      {
+        "d": 1350.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.957017050093342,
+        "E_diam_geom": 52.301081524057295,
+        "E_diam_detected": 52.57565776918769,
+        "E_mec_detected": null,
+        "P90_diam_detected": 62.65932913718871
+      },
+      {
+        "d": 1350.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9680174275351145,
+        "E_diam_geom": 52.87958922931567,
+        "E_diam_detected": 53.308045991735426,
+        "E_mec_detected": null,
+        "P90_diam_detected": 66.46749016985687
+      },
+      {
+        "d": 1350.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9952794708473722,
+        "E_diam_geom": 54.34102523425537,
+        "E_diam_detected": 54.93378404813919,
+        "E_mec_detected": null,
+        "P90_diam_detected": 69.9976914206702
+      },
+      {
+        "d": 1350.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.038072717112327,
+        "E_diam_geom": 56.71692783807593,
+        "E_diam_detected": 57.428354749266376,
+        "E_mec_detected": null,
+        "P90_diam_detected": 71.05152422868149
+      },
+      {
+        "d": 1350.0,
+        "alpha": 40.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.100924744634687,
+        "E_diam_geom": 60.39611276260588,
+        "E_diam_detected": 61.27485460526848,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.00869228518015
+      },
+      {
+        "d": 1350.0,
+        "alpha": 45.0,
+        "p_detect": 0.9563365810072244,
+        "E_log_diam": 4.251306116162059,
+        "E_diam_geom": 70.19703798263802,
+        "E_diam_detected": 65.77872911004407,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.22181839974601
+      },
+      {
+        "d": 1350.0,
+        "alpha": 50.0,
+        "p_detect": 0.7825465634670592,
+        "E_log_diam": 4.841564608741903,
+        "E_diam_geom": 126.66738166269826,
+        "E_diam_detected": 69.28907226765055,
+        "E_mec_detected": null,
+        "P90_diam_detected": 84.74186148573864
+      },
+      {
+        "d": 1350.0,
+        "alpha": 55.0,
+        "p_detect": 0.5826329197343477,
+        "E_log_diam": 5.497743256736937,
+        "E_diam_geom": 244.1403480206666,
+        "E_diam_detected": 74.19545815956211,
+        "E_mec_detected": null,
+        "P90_diam_detected": 89.50263961382035
+      },
+      {
+        "d": 1350.0,
+        "alpha": 60.0,
+        "p_detect": 0.3868398884260511,
+        "E_log_diam": 6.271817722665993,
+        "E_diam_geom": 529.4388767903619,
+        "E_diam_detected": 79.2586991180008,
+        "E_mec_detected": null,
+        "P90_diam_detected": 93.75862518068566
+      },
+      {
+        "d": 1400.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.766032950869852,
+        "E_diam_geom": 319.2686626098023,
+        "E_diam_detected": 560.7433129602057,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1400.0
+      },
+      {
+        "d": 1400.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.4265184361697445,
+        "E_diam_geom": 83.63971241349725,
+        "E_diam_detected": 90.7483627864716,
+        "E_mec_detected": null,
+        "P90_diam_detected": 146.4862995602117
+      },
+      {
+        "d": 1400.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.11938248798717,
+        "E_diam_geom": 61.52124042733253,
+        "E_diam_detected": 62.63250582098509,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.32703558588241
+      },
+      {
+        "d": 1400.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.0173086198949886,
+        "E_diam_geom": 55.551394534113356,
+        "E_diam_detected": 55.81189169674459,
+        "E_mec_detected": null,
+        "P90_diam_detected": 64.33946248864326
+      },
+      {
+        "d": 1400.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.979260396516983,
+        "E_diam_geom": 53.47746747623291,
+        "E_diam_detected": 53.62543808261284,
+        "E_mec_detected": null,
+        "P90_diam_detected": 60.480902480233944
+      },
+      {
+        "d": 1400.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.97396234123506,
+        "E_diam_geom": 53.19489011343224,
+        "E_diam_detected": 53.41022767551378,
+        "E_mec_detected": null,
+        "P90_diam_detected": 63.2236862078156
+      },
+      {
+        "d": 1400.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9938724805265506,
+        "E_diam_geom": 54.264621699848114,
+        "E_diam_detected": 54.63880685174565,
+        "E_mec_detected": null,
+        "P90_diam_detected": 66.72296113011801
+      },
+      {
+        "d": 1400.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.034513664077569,
+        "E_diam_geom": 56.515428070808156,
+        "E_diam_detected": 57.0722418349715,
+        "E_mec_detected": null,
+        "P90_diam_detected": 70.34978641849506
+      },
+      {
+        "d": 1400.0,
+        "alpha": 40.0,
+        "p_detect": 0.9998244329690739,
+        "E_log_diam": 4.091970454893203,
+        "E_diam_geom": 59.857722518099955,
+        "E_diam_detected": 60.62055067613467,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.86532555765109
+      },
+      {
+        "d": 1400.0,
+        "alpha": 45.0,
+        "p_detect": 0.9316013705720819,
+        "E_log_diam": 4.372977406339843,
+        "E_diam_geom": 79.2793274165528,
+        "E_diam_detected": 64.37459518517778,
+        "E_mec_detected": null,
+        "P90_diam_detected": 79.5351532484024
+      },
+      {
+        "d": 1400.0,
+        "alpha": 50.0,
+        "p_detect": 0.7307864965484926,
+        "E_log_diam": 4.969800120196066,
+        "E_diam_geom": 143.99810218179545,
+        "E_diam_detected": 68.37167892252388,
+        "E_mec_detected": null,
+        "P90_diam_detected": 83.61132917317146
+      },
+      {
+        "d": 1400.0,
+        "alpha": 55.0,
+        "p_detect": 0.5280862272441154,
+        "E_log_diam": 5.725126057035924,
+        "E_diam_geom": 306.4718957472615,
+        "E_diam_detected": 74.43649234181936,
+        "E_mec_detected": null,
+        "P90_diam_detected": 89.09862574160205
+      },
+      {
+        "d": 1400.0,
+        "alpha": 60.0,
+        "p_detect": 0.3294395858012088,
+        "E_log_diam": 6.35025639125459,
+        "E_diam_geom": 572.6395099560136,
+        "E_diam_detected": 76.85323256987635,
+        "E_mec_detected": null,
+        "P90_diam_detected": 90.54607514888458
+      },
+      {
+        "d": 1450.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 5.963618250680466,
+        "E_diam_geom": 389.01513514155573,
+        "E_diam_detected": 644.9160465617662,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1450.0
+      },
+      {
+        "d": 1450.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.549792981263235,
+        "E_diam_geom": 94.61281966097687,
+        "E_diam_detected": 103.69248411896861,
+        "E_mec_detected": null,
+        "P90_diam_detected": 168.57642862347183
+      },
+      {
+        "d": 1450.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.1942019566501445,
+        "E_diam_geom": 66.30079954690817,
+        "E_diam_detected": 67.89627522647669,
+        "E_mec_detected": null,
+        "P90_diam_detected": 92.59275714454552
+      },
+      {
+        "d": 1450.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.062763827428489,
+        "E_diam_geom": 58.13476369960601,
+        "E_diam_detected": 58.51565156726384,
+        "E_mec_detected": null,
+        "P90_diam_detected": 70.20441590518224
+      },
+      {
+        "d": 1450.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.008640518770424,
+        "E_diam_geom": 55.07195036590296,
+        "E_diam_detected": 55.18426109308836,
+        "E_mec_detected": null,
+        "P90_diam_detected": 60.21572897493077
+      },
+      {
+        "d": 1450.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 3.9931113793328383,
+        "E_diam_geom": 54.223336544579446,
+        "E_diam_detected": 54.335055132311716,
+        "E_mec_detected": null,
+        "P90_diam_detected": 60.94175285704388
+      },
+      {
+        "d": 1450.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.003397479079388,
+        "E_diam_geom": 54.78396157233062,
+        "E_diam_detected": 55.010327914781804,
+        "E_mec_detected": null,
+        "P90_diam_detected": 64.84121717535693
+      },
+      {
+        "d": 1450.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.033029715681449,
+        "E_diam_geom": 56.43162428758999,
+        "E_diam_detected": 56.8116638262899,
+        "E_mec_detected": null,
+        "P90_diam_detected": 68.31490120646869
+      },
+      {
+        "d": 1450.0,
+        "alpha": 40.0,
+        "p_detect": 0.9981073415640518,
+        "E_log_diam": 4.098944648637585,
+        "E_diam_geom": 60.27664098331529,
+        "E_diam_detected": 59.884268504877504,
+        "E_mec_detected": null,
+        "P90_diam_detected": 73.14650820881518
+      },
+      {
+        "d": 1450.0,
+        "alpha": 45.0,
+        "p_detect": 0.8843675150847469,
+        "E_log_diam": 4.593710113425746,
+        "E_diam_geom": 98.8605343938141,
+        "E_diam_detected": 63.132820643175926,
+        "E_mec_detected": null,
+        "P90_diam_detected": 77.39658882856436
+      },
+      {
+        "d": 1450.0,
+        "alpha": 50.0,
+        "p_detect": 0.675931741630355,
+        "E_log_diam": 5.228481864093487,
+        "E_diam_geom": 186.5094418032872,
+        "E_diam_detected": 67.91033746891722,
+        "E_mec_detected": null,
+        "P90_diam_detected": 82.03966535701866
+      },
+      {
+        "d": 1450.0,
+        "alpha": 55.0,
+        "p_detect": 0.4708040272303955,
+        "E_log_diam": 6.002659004513077,
+        "E_diam_geom": 404.5029399225615,
+        "E_diam_detected": 73.15365026674426,
+        "E_mec_detected": null,
+        "P90_diam_detected": 87.84589135165824
+      },
+      {
+        "d": 1450.0,
+        "alpha": 60.0,
+        "p_detect": 0.2696157518796448,
+        "E_log_diam": 6.391383540684383,
+        "E_diam_geom": 596.681542060981,
+        "E_diam_detected": 75.79520482387333,
+        "E_mec_detected": null,
+        "P90_diam_detected": 85.70813614247912
+      },
+      {
+        "d": 1500.0,
+        "alpha": 0.0,
+        "p_detect": 1.0,
+        "E_log_diam": 6.282165584547011,
+        "E_diam_geom": 534.945880880742,
+        "E_diam_detected": 778.676117615014,
+        "E_mec_detected": null,
+        "P90_diam_detected": 1500.0
+      },
+      {
+        "d": 1500.0,
+        "alpha": 5.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.688435023096002,
+        "E_diam_geom": 108.68296032461132,
+        "E_diam_detected": 119.06488734536939,
+        "E_mec_detected": null,
+        "P90_diam_detected": 191.47955526604107
+      },
+      {
+        "d": 1500.0,
+        "alpha": 10.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.277506312143518,
+        "E_diam_geom": 72.06051932557786,
+        "E_diam_detected": 74.14133106239088,
+        "E_mec_detected": null,
+        "P90_diam_detected": 101.67893533727701
+      },
+      {
+        "d": 1500.0,
+        "alpha": 15.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.117513543137618,
+        "E_diam_geom": 61.40636800045015,
+        "E_diam_detected": 61.95014726045904,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.46826606514345
+      },
+      {
+        "d": 1500.0,
+        "alpha": 20.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.046870630567279,
+        "E_diam_geom": 57.218119950217506,
+        "E_diam_detected": 57.369287127628574,
+        "E_mec_detected": null,
+        "P90_diam_detected": 64.73464478025394
+      },
+      {
+        "d": 1500.0,
+        "alpha": 25.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.018996466357611,
+        "E_diam_geom": 55.645235931528674,
+        "E_diam_detected": 55.70820914267442,
+        "E_mec_detected": null,
+        "P90_diam_detected": 59.57057472642565
+      },
+      {
+        "d": 1500.0,
+        "alpha": 30.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.017001435502959,
+        "E_diam_geom": 55.53433263346593,
+        "E_diam_detected": 55.644563967372235,
+        "E_mec_detected": null,
+        "P90_diam_detected": 62.51951292141037
+      },
+      {
+        "d": 1500.0,
+        "alpha": 35.0,
+        "p_detect": 1.0,
+        "E_log_diam": 4.036211142453541,
+        "E_diam_geom": 56.61144325666291,
+        "E_diam_detected": 56.852852977634946,
+        "E_mec_detected": null,
+        "P90_diam_detected": 65.93949804736872
+      },
+      {
+        "d": 1500.0,
+        "alpha": 40.0,
+        "p_detect": 0.9934924693656332,
+        "E_log_diam": 4.128086925202999,
+        "E_diam_geom": 62.05908562603853,
+        "E_diam_detected": 59.552469446320984,
+        "E_mec_detected": null,
+        "P90_diam_detected": 70.39894223098527
+      },
+      {
+        "d": 1500.0,
+        "alpha": 45.0,
+        "p_detect": 0.8284993458205341,
+        "E_log_diam": 4.765638260709691,
+        "E_diam_geom": 117.40602903406673,
+        "E_diam_detected": 62.88585789940707,
+        "E_mec_detected": null,
+        "P90_diam_detected": 75.33494663189667
+      },
+      {
+        "d": 1500.0,
+        "alpha": 50.0,
+        "p_detect": 0.6181923450163451,
+        "E_log_diam": 5.2678715239067415,
+        "E_diam_geom": 194.0025927969483,
+        "E_diam_detected": 67.14721734020449,
+        "E_mec_detected": null,
+        "P90_diam_detected": 80.68043870434045
+      },
+      {
+        "d": 1500.0,
+        "alpha": 55.0,
+        "p_detect": 0.4109654627885919,
+        "E_log_diam": 6.195189308848699,
+        "E_diam_geom": 490.38427029304484,
+        "E_diam_detected": 72.48350721319119,
+        "E_mec_detected": null,
+        "P90_diam_detected": 85.9499745765338
+      },
+      {
+        "d": 1500.0,
+        "alpha": 60.0,
+        "p_detect": 0.20779756443946318,
+        "E_log_diam": 6.524533133166399,
+        "E_diam_geom": 681.6614542253639,
+        "E_diam_detected": 75.77082883304203,
+        "E_mec_detected": null,
+        "P90_diam_detected": 89.05516306701269
+      }
+    ]
+  }
+}

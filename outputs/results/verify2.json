@@ -1,0 +1,46 @@
+{
+  "invariants_p3": {
+    "n": 40,
+    "max_time_gap_s": 9.094947017729282e-13,
+    "all_within_limit": true,
+    "all_flags_consistent": true,
+    "mean_ratio": 1.0,
+    "n_full_clear": 40
+  },
+  "invariants_p4": {
+    "n": 40,
+    "max_time_gap_s": 4.547473508864641e-12,
+    "all_within_limit": true,
+    "all_flags_consistent": true,
+    "mean_ratio": 0.998076923076923,
+    "n_full_clear": 39
+  },
+  "adversarial_p3": {
+    "n_cases": 25,
+    "ratio": 1.0,
+    "n_full_clear": 25,
+    "mean_avg_time_s": 345.13041957257985
+  },
+  "adversarial_p4": {
+    "n_cases": 25,
+    "ratio": 0.9968652037617555,
+    "n_full_clear": 24,
+    "mean_avg_time_s": 544.1505878409429
+  },
+  "reproducibility_p3": {
+    "all_identical": true,
+    "detail": [
+      true,
+      true,
+      true
+    ]
+  },
+  "reproducibility_p4": {
+    "all_identical": true,
+    "detail": [
+      true,
+      true,
+      true
+    ]
+  }
+}
