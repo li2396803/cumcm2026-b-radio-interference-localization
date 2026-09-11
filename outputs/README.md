@@ -14,6 +14,7 @@
 | `p2_study.py` / `p2_refine.py` | 问题 2：极坐标网格优化 / 精细复核与先验敏感性 |
 | `cover_design.py` | 侦察点集设计（问题 3 覆盖条件、问题 4 环绕条件与代价-漏检率权衡） |
 | `sim_study.py` / `sim_study2.py` | 演练统计（v1 四策略 / v2 六组对照，各 150 局） |
+| `robust_sweep.py` / `sweep_report.py` | **系统性多轮测试**：N=10…20 × 全向/定向 5 档配比，1980 局并行演练与汇总出表 |
 | `verify.py` / `verify2.py` | 检验：计时回归、几何互校、不变量、对抗算例、复现性 |
 | `figures.py` / `figures2.py` | 出图 |
 | `build_pdf_v2.py` | 说明文档 → PDF（pandoc + xelatex + 版式补丁） |
@@ -33,6 +34,9 @@
 | `fig_v2_belief.png` | 朝向贝叶斯信念：覆盖半平面与朝向后验收缩 |
 | `fig_strategy_compare.png` / `fig_time_breakdown.png` | 策略对比与总时间构成 |
 | `fig_p4_tradeoff.png` | 问题 4 侦察代价-漏检率权衡 |
+| `fig_sweep_grid.png` | N×配比 网格热力图：清除比例与平均定位清除时间 |
+| `fig_sweep_curves.png` | 5 条配比曲线：平均时间与清除比例随 N 变化 |
+| `fig_sweep_kind.png` | 全向 vs 定向：清除率、清除间隔、首次发现时刻 |
 
 ## results/ — 全部结果数据
 
@@ -44,3 +48,5 @@
 | `sim_summary.json`（v1）/ `sim2_summary.json`（v2） | 演练统计汇总（150 局 × 各策略） |
 | `sim_*.jsonl` / `sim2_*.jsonl` | **逐局明细**：源真值、清除集合、时间分解、请求数、侦察点数 |
 | `verify.json`（v1）/ `verify2.json`（v2） | 检验报告：计时回归、几何互校、不变量、对抗算例、复现性 |
+| `sweep_trials.jsonl` | **多轮测试逐局明细**（1980 局）：每源清除时刻/类型、首次发现时刻、失败分类、时间分解 |
+| `sweep_summary.json` / `sweep_table.md` | 多轮测试 55 格聚合与全部结果表（Markdown） |
